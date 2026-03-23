@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Navy fill circle -->
+  <circle cx="24" cy="24" r="23" fill="#012A6A"/>
+  <!-- Green ring border -->
+  <circle cx="24" cy="24" r="21" fill="none" stroke="#6DBF5B" stroke-width="3"/>
+  <!-- SJ monogram — Georgia-style serif feel via SVG path trick, fallback to system serif -->
+  <text x="24" y="30" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-weight="700"
+        font-size="19"
+        fill="#ffffff"
+        letter-spacing="-0.5">SJ</text>
+</svg>
