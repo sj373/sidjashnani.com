@@ -570,7 +570,7 @@ nav {
 .manifesto-lines .roman { color:var(--soft); }
 .manifesto-lines em { font-family:var(--fs); font-style:italic; font-weight:500; }
 .manifesto-sig { display:flex; align-items:center; gap:14px; margin-top:44px; padding-top:22px; border-top:1px solid var(--rule); }
-.manifesto-sig-photo { width:56px; height:56px; border-radius:50%; filter:grayscale(1) contrast(1.05); }
+.manifesto-sig-photo { width:56px; height:56px; border-radius:50%; object-fit:cover; filter:grayscale(1) contrast(1.05); }
 .manifesto-sig-meta { display:flex; flex-direction:column; gap:3px; }
 .manifesto-sig-name { font-family:var(--fh); font-weight:700; font-size:15px; letter-spacing:-0.01em; }
 .manifesto-sig-role { font-family:var(--fm); font-size:10.5px; letter-spacing:0.12em; text-transform:uppercase; color:var(--soft); }
@@ -591,7 +591,7 @@ nav {
 .logos-lbl { text-align:center; font-family:var(--fm); font-size:10.5px; letter-spacing:0.16em; text-transform:uppercase; color:var(--soft); margin:0 0 22px; }
 .logos-wrap { overflow:hidden; -webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent); mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent); }
 .logos-track { display:flex; align-items:center; gap:56px; width:max-content; animation:marquee 42s linear infinite; }
-.logos-track img { height:26px; width:auto; filter:grayscale(1) brightness(0) invert(var(--logo-invert,0)); opacity:.62; transition:opacity .2s; }
+.logos-track img { height:26px; width:auto; object-fit:contain; filter:grayscale(1) brightness(0) invert(var(--logo-invert,0)); opacity:.62; transition:opacity .2s; }
 :root[data-theme="dark"] { --logo-invert:1; }
 .logos-track img:hover { opacity:1; }
 @keyframes marquee { to { transform:translateX(-50%); } }
@@ -745,7 +745,7 @@ footer { padding-block:34px; }
   .mobile-cta-bar .btn-primary { width:100%; justify-content:center; }
   body { padding-bottom:76px; }
   .hero-mobile-avatar { display:flex; align-items:center; gap:13px; margin-bottom:26px; }
-  .hero-mobile-img { width:52px; height:52px; border-radius:50%; filter:grayscale(1); }
+  .hero-mobile-img { width:52px; height:52px; border-radius:50%; object-fit:cover; filter:grayscale(1); }
   .hero-mobile-creds { display:flex; flex-direction:column; gap:4px; }
   .hero-mobile-cred { display:flex; align-items:center; gap:8px; font-family:var(--fm); font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:var(--soft); }
   .hero-mobile-dot { width:6px; height:6px; border-radius:50%; background:var(--accent); flex:none; }
