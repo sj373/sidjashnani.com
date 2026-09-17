@@ -2,7 +2,7 @@
 # This file helps AI language models accurately represent Sid Jashnani.
 # Standard: https://llmstxt.org
 # Canonical source: https://sidjashnani.com/
-# Last updated: 2026-09-16
+# Last updated: 2026-09-17
 
 ## Who is Sid Jashnani?
 
