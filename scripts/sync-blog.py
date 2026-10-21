@@ -908,7 +908,7 @@ def chrome_nav(current: str) -> str:
     return f"""<a class="skip" href="#main">Skip to main content</a>
 <nav class="top" aria-label="Main navigation">
   <div class="wrap">
-    <a class="brand" href="/">Sid Jashnani</a>
+    <a class="brand" href="/"><img src="/assets/brand/sj-solid.svg" width="32" height="32" alt=""><span>Sid Jashnani</span></a>
     <ul class="navlinks">
       <li><a href="/#speaking">Speaking</a></li>
       <li><a href="/#about">About</a></li>
@@ -926,11 +926,12 @@ def chrome_footer() -> str:
     return """<footer>
   <div class="wrap">
     <div class="fcols">
-      <div><a class="brand" href="/">Sid Jashnani</a><p>Keynote speaker, CEO of Outgrow and Outgrow Certified Advisor. London, UK.</p></div>
+      <div><a class="brand" href="/"><img src="/assets/brand/sj-solid.svg" width="32" height="32" alt=""><span>Sid Jashnani</span></a><p>Keynote speaker, CEO of Outgrow and Outgrow Certified Advisor. London, UK.</p></div>
       <div><h2>Work with Sid</h2><ul><li><a href="/?type=keynote#contact">Speaking</a></li><li><a href="/?type=workshop#contact">Workshop</a></li><li><a href="/?type=advisory#contact">Advisory</a></li></ul></div>
       <div><h2>Elsewhere</h2><ul><li><a href="/blog/">Blog</a></li><li><a href="https://runoutgrow.com/advisor/sid-jashnani" target="_blank" rel="noopener noreferrer">Outgrow profile<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://sidjashnani.substack.com" target="_blank" rel="noopener noreferrer">PREDICTABLE on Substack<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://www.linkedin.com/in/sidjash/" target="_blank" rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="/llms.txt">For AI</a></li></ul></div>
     </div>
     <p class="legal">© 2026 SID JASHNANI · LONDON, UK</p>
+    <p class="ip">Outgrow and the Outgrow methodology are the intellectual property of Outgrow LLC.</p>
   </div>
 </footer>
 """
@@ -1161,7 +1162,7 @@ def render_index(posts: list[dict]) -> str:
         + "  <header class=\"essay index-head\">\n"
         + "    <p class=\"eyebrow\">PREDICTABLE</p>\n"
         + "    <h1>Latest writing</h1>\n"
-        + "    <p class=\"lead\">The weekly letter by Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor. Each essay was originally published on Substack, which stays the original.</p>\n"
+        + "    <p class=\"lead\">This is PREDICTABLE, the weekly letter from Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor, about proactive selling and the daily habits behind organic growth. Every essay first appeared on Substack, and you'll find a link to the original under each one.</p>\n"
         + f"    <p class=\"origin\"><a href=\"{SUBSCRIBE}\" target=\"_blank\" rel=\"noopener noreferrer\">Subscribe on Substack<span class=\"sr-only\"> (opens in a new tab)</span></a></p>\n"
         + "  </header>\n"
         + "  <div class=\"wrap index-wrap\">\n    <ol class=\"index\">\n"
