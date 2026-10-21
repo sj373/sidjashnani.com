@@ -290,6 +290,20 @@
       },
       "description": "A structured engagement to install the Outgrow system inside a business. The team makes a handful of proactive communications a day, and the work is tracked weekly, with a target of 15–30% predictable new sales growth a year.",
       "url": "https://sidjashnani.com/#advisory"
+    },
+    {
+      "@type": "Blog",
+      "@id": "https://sidjashnani.com/blog/#blog",
+      "name": "PREDICTABLE",
+      "url": "https://sidjashnani.com/blog/",
+      "description": "Weekly essays by Sid Jashnani on proactive selling and predictable revenue. Originally published on Substack.",
+      "author": {
+        "@id": "https://sidjashnani.com/#sid"
+      },
+      "publisher": {
+        "@id": "https://sidjashnani.com/#sid"
+      },
+      "inLanguage": "en-GB"
     }
   ]
 }
@@ -386,7 +400,7 @@ nav.top .wrap{display:flex;align-items:center;justify-content:space-between;heig
 .navlinks a:not(.btn){display:inline-flex;font-family:var(--og-font-head);font-weight:600;font-size:var(--og-size-small);color:var(--og-steel);text-decoration:none;padding:8px 12px;border-radius:var(--og-radius-sm)}
 .navlinks a:not(.btn):hover{color:var(--og-navy);background:var(--og-navy-50)}
 .navlinks .btn{padding:10px 18px;font-size:var(--og-size-small);margin-left:10px}
-@media(max-width:860px){.navlinks li:not(.keep){display:none}}
+@media(max-width:860px){.navlinks li:not(.keep):not(.nav-blog){display:none}.navlinks .btn{margin-left:0}}
 /* hero (DS .og-hero: navy, dot texture, faint green glow) */
 .hero{background:var(--og-white);padding:clamp(56px,6vw,96px) 0 clamp(40px,5vw,64px)} /* white hero; nav hairline separates it */
 .hero h1{color:var(--og-navy);font-weight:700}
@@ -501,6 +515,15 @@ nav.top .wrap{display:flex;align-items:center;justify-content:space-between;heig
 .nl .actions{justify-content:flex-end;margin-top:0}
 @media(max-width:760px){.nl{grid-template-columns:1fr}.nl .actions{justify-content:flex-start}}
 .nl h2{margin-bottom:var(--og-space-3)}
+.writing{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:var(--og-space-5);margin-top:var(--og-space-6)}
+@media(max-width:900px){.writing{grid-template-columns:1fr}}
+.writing a{display:flex;flex-direction:column;gap:10px;height:100%;text-decoration:none;background:#fff;border-radius:var(--og-radius);padding:var(--og-card-pad);box-shadow:inset 0 0 0 1px var(--og-rule)}
+.writing a:hover h3{text-decoration:underline;text-underline-offset:3px}
+.writing a:focus-visible{outline:2px solid var(--og-ring);outline-offset:3px}
+.writing time{font-family:var(--og-font-mono);font-size:12px;letter-spacing:.04em;color:var(--og-navy)}
+.writing h3{font-size:1.35rem;line-height:1.25;color:var(--og-navy)}
+.writing p{font-size:var(--og-size-body);line-height:1.5;color:var(--og-ink)}
+.writing-more{margin-top:var(--og-space-6)}
 /* contact + form (DS Field / Input / Select / RadioGroup) */
 .contact{display:grid;grid-template-columns:1fr 1.4fr;gap:var(--og-gutter);align-items:start}
 @media(max-width:900px){.contact{grid-template-columns:1fr}}
@@ -570,6 +593,7 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
       <li><a href="#about">About</a></li>
       <li><a href="#advisory">Advisory</a></li>
       <li><a href="#faq">FAQ</a></li>
+      <li class="nav-blog"><a href="/blog/">Blog</a></li>
       <li class="keep"><a class="btn btn-secondary" href="?type=keynote#contact" data-type="keynote">Book Sid to speak</a></li>
     </ul>
   </div>
@@ -798,6 +822,21 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
   </div>
 </section>
 
+<!-- sid-blog-latest:start -->
+<section class="band wall" id="writing" aria-labelledby="writing-h">
+  <div class="wrap">
+    <p class="eyebrow">PREDICTABLE</p>
+    <h2 id="writing-h">Latest writing</h2>
+    <ol class="writing">
+<li><a href="/blog/your-moat-is-thinner-than-you-think/"><time datetime="2026-10-20">20 October 2026</time><h3>Your moat is thinner than you think</h3><p>What would stop your best customer from leaving tomorrow, or from buying from someone else next week?</p></a></li>
+<li><a href="/blog/ill-call-them-after-lunch-they-never/"><time datetime="2026-10-06">6 October 2026</time><h3>“I’ll call them after lunch.” They never do.</h3><p>They know a call works. They feel like they are bothering someone.</p></a></li>
+<li><a href="/blog/no-activity-no-revenue/"><time datetime="2026-09-21">21 September 2026</time><h3>No Activity, No Revenue</h3><p>When the diary falls apart, the very first thing founders drop is the only thing that actually feeds the pipeline.</p></a></li>
+    </ol>
+    <p class="writing-more"><a class="textlink" href="/blog/">All writing</a></p>
+  </div>
+</section>
+<!-- sid-blog-latest:end -->
+
 <!-- ============ CONTACT / ENQUIRY FORM ============ -->
 <section class="band dark" id="contact" aria-labelledby="contact-h">
   <div class="wrap contact">
@@ -874,7 +913,7 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
     <div class="fcols">
       <div><a class="brand" href="/">Sid Jashnani</a><p>Keynote speaker, CEO of Outgrow and Outgrow Certified Advisor. London, UK.</p></div>
       <div><h2>Work with Sid</h2><ul><li><a href="?type=keynote#contact" data-type="keynote">Speaking</a></li><li><a href="?type=workshop#contact" data-type="workshop">Workshop</a></li><li><a href="?type=advisory#contact" data-type="advisory">Advisory</a></li></ul></div>
-      <div><h2>Elsewhere</h2><ul><li><a href="https://runoutgrow.com/advisor/sid-jashnani" target="_blank" rel="noopener">Outgrow profile<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://sidjashnani.substack.com" target="_blank" rel="noopener">PREDICTABLE newsletter<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://www.linkedin.com/in/sidjash/" target="_blank" rel="noopener">LinkedIn<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="/llms.txt">For AI</a></li></ul></div>
+      <div><h2>Elsewhere</h2><ul><li><a href="/blog/">Blog</a></li><li><a href="https://runoutgrow.com/advisor/sid-jashnani" target="_blank" rel="noopener">Outgrow profile<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://sidjashnani.substack.com" target="_blank" rel="noopener">PREDICTABLE newsletter<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://www.linkedin.com/in/sidjash/" target="_blank" rel="noopener">LinkedIn<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="/llms.txt">For AI</a></li></ul></div>
     </div>
     <p class="legal">© 2026 SID JASHNANI · LONDON, UK</p>
   </div>

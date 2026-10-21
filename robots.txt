@@ -4,97 +4,121 @@
 User-agent: *
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Googlebot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Google-Extended
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: GoogleOther
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Bingbot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Applebot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Applebot-Extended
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: DuckDuckBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: GPTBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: ChatGPT-User
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: OAI-SearchBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: ClaudeBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Claude-Web
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: anthropic-ai
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: PerplexityBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Perplexity-User
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Amazonbot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Meta-ExternalAgent
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Meta-ExternalFetcher
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: Bytespider
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: CCBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: cohere-ai
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: DuckAssistBot
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 User-agent: MistralAI-User
 Allow: /
 Disallow: /worker/
+Disallow: /blog/skipped.json
 
 Sitemap: https://sidjashnani.com/sitemap.xml

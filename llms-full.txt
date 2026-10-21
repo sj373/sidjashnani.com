@@ -153,3 +153,2834 @@ Subscribe: https://sidjashnani.substack.com/welcome
 ## Preferred description
 
 Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor, based in London.
+
+<!-- sid-blog-full:start -->
+## Writing
+
+The essays below are the text mirrored at https://sidjashnani.com/blog/. The Substack link under each title is the original. Sid Jashnani is the author: CEO of Outgrow and Outgrow Certified Advisor.
+
+## Your moat is thinner than you think
+
+- Date: 20 October 2026
+- Mirror: https://sidjashnani.com/blog/your-moat-is-thinner-than-you-think/
+- Original: https://sidjashnani.substack.com/p/your-moat-is-thinner-than-you-think
+
+# Your moat is thinner than you think
+
+- Date: 20 October 2026
+- Mirror: https://sidjashnani.com/blog/your-moat-is-thinner-than-you-think/
+- Original: https://sidjashnani.substack.com/p/your-moat-is-thinner-than-you-think
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+What would stop your best customer from leaving tomorrow, or from buying from someone else next week?
+
+## First, what is a moat?
+
+A moat is whatever protects a business from its competitors, like the ditch round a castle. Warren Buffett made the picture famous, writing in his 1995 letter to Berkshire Hathaway shareholders, “In business, I look for economic castles protected by unbreachable ‘moats.’” It is why a customer can’t easily walk across the road to someone else: a price nobody can match, a brand people trust, or a product that is very hard to build.
+
+![Image from the essay “Your moat is thinner than you think”](https://sidjashnani.com/assets/blog/your-moat-is-thinner-than-you-think/3558dfe3fb666791.webp)
+
+## Why AI has made technical moats so much weaker
+
+Software used to be protected by the years and the big team it took to build. AI coding tools are wearing that away, and the clearest recent case involves Adobe.
+
+On 3 October 2026, Brandon Thomas, founder of ArtCraft, posted on X, “I’ve vibe coded replacements to 7 of Adobe’s apps in Rust. They’re open source.” The seven include lookalikes of Photoshop, Illustrator and Premiere. Ars Technica reports he used Claude Opus 5.5 and calls them clean-room rewrites, meaning written without Adobe’s code. The Photoshop and Premiere repositories were both created on 30 September, and Photoshop’s first release is dated 2 October, so in public at least this took days, not years.
+
+![Image from the essay “Your moat is thinner than you think”](https://sidjashnani.com/assets/blog/your-moat-is-thinner-than-you-think/d16d6cd35e330edc.webp)
+
+It is far from finished. Thomas calls the apps “super early alpha”, the Photoshop project’s own roadmap puts it at about 45 percent ready for real work, and testers on Hacker News were split on whether it works. What strikes me is how cheap the first copy has become.
+
+Nikita Bier made the same point on X on 12 October 2026, saying technical moats are mostly over, and that for something meant to last, the only moats left are proprietary data, network effects and a physical component.
+
+![Image from the essay “Your moat is thinner than you think”](https://sidjashnani.com/assets/blog/your-moat-is-thinner-than-you-think/a0c25d3c28579bf3.webp)
+
+## The moat is usually thinner than we think
+
+Most of us reach for quality or service, which is what the next supplier will say, so here is where I’ve landed. For most businesses I come across, there is little or no moat beyond helping customers get value and keeping them happy. I have tried hard to argue myself out of that view and can only partly.
+
+Some mid-market businesses do have a real moat, such as painful switching, a contract that runs for years, or so many engineers or sites in one area that a newcomer struggles to match you. Others have a specialist skill that takes years to learn, or a licence that regulation makes hard to get. If you have one, protect it, but be honest about whether you have it or just wish you did.
+
+## What the moats thread left standing
+
+Later that day, levelsio quoted Nikita’s post and widened the list to include audience and distribution, capital, and regulatory barriers. Both are about building technology companies, so don’t stretch them.
+
+![Image from the essay “Your moat is thinner than you think”](https://sidjashnani.com/assets/blog/your-moat-is-thinner-than-you-think/bac3e635b9e74dce.webp)
+
+Neither list says “customer relationships”, but in my view a customer list is a kind of proprietary data and a kind of audience. A competitor with the same tools can’t copy that by next Tuesday.
+
+## A relationship only counts if you tend it
+
+Happy customers still leave. They drift, or someone rings them with a better price, or nobody ever asked them for more.
+
+> **A moat protects the revenue you have. It doesn’t go and find you more. Behaviour does.**
+
+When I explain this, a common reply is that calling customers after they’ve used what they bought is already part of their process. I said that’s great, and asked, “Who is doing it?” There was absolute silence, because I think nobody or hardly anybody was. A line in a process document is a different thing from someone picking up the phone this week.
+
+Customers mostly call us when something is wrong, so a call when nothing is wrong tends to surprise them.
+
+**That is where Outgrow starts. Outgrow is a revenue growth system that helps companies grow revenue 15 to 30 percent a year, organically and systematically. It starts with current customers, then past customers, prospects, past prospects and referrals. So start there: call your current customers when nothing is wrong.**
+
+Private equity leaders seem to agree that growth is where the work is. Kearney’s April 2026 survey of 100 US private equity leaders found 69 percent named revenue growth and commercial excellence as a most critical operating lever today, ahead of AI and working capital. That is what they say matters, not proof it works, and it is revenue, not EBITDA.
+
+## The first three things to say
+
+The call takes about two minutes. Start like this.
+
+1. “I was just thinking about you. How are things with the family?” If they ask whether something is wrong, tell them, “No, I’m just calling to check in on you.”
+2. “How was the experience?” Ask this after they have used what you sold them, and then listen.
+3. “Do you know we also do [one other thing you offer]?” Customers often see you as one thing only. If you want to go further, ask, “What else is going on in your world? Is there anything I can help you with?”
+
+Then agree when you will speak next. That one call, made when nothing is wrong, is the start of how a business grows without chasing strangers.
+
+I continue to build Outgrow’s UK practice, working with owners and with PE and operating partners who want organic revenue growth from the customers they already have. If that’s you, I’d be glad to connect. And if you’re curious about becoming an Outgrow advisor, say hello.
+
+**Sources**
+
+- [Berkshire Hathaway 1995 letter](https://www.berkshirehathaway.com/letters/1995.html), dated 1 March 1996
+- [Brandon Thomas on X](https://x.com/echelon/status/2106387247234752762), 3 Oct 2026
+- [Ars Technica, “Software is over”: Bold AI developer takes aim at Adobe with open source clones](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/), Kyle Orland, 7 Oct 2026
+- [PhotoCraft](https://github.com/storytold/photocraft), its [roadmap](https://github.com/storytold/photocraft/blob/main/docs/roadmap.md), and [FilmCraft](https://github.com/storytold/filmcraft)
+- [Hacker News thread](https://news.ycombinator.com/item?id=49958850)
+- [Nikita Bier on X](https://x.com/nikitabier/status/2109497987055640958) and [levelsio on X](https://x.com/levelsio/status/2109653584706990506), both 12 Oct 2026
+- [Kearney, “Private equity’s new rules of engagement: why operational alpha is the only durable response”](https://www.kearney.com/industry/private-equity/article/private-equitys-new-rules-of-engagement-why-operational-alpha-is-the-only-durable-response), survey of 100 US private equity senior leaders, April 2026, published 4 Jun 2026
+
+## “I’ll call them after lunch.” They never do.
+
+- Date: 6 October 2026
+- Mirror: https://sidjashnani.com/blog/ill-call-them-after-lunch-they-never/
+- Original: https://sidjashnani.substack.com/p/ill-call-them-after-lunch-they-never
+
+They know a call works. They feel like they are bothering someone.
+
+# “I’ll call them after lunch.” They never do.
+
+- Date: 6 October 2026
+- Mirror: https://sidjashnani.com/blog/ill-call-them-after-lunch-they-never/
+- Original: https://sidjashnani.substack.com/p/ill-call-them-after-lunch-they-never
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+They know a call works. They feel like they are bothering someone.
+
+People will tell you a phone call is better than an email, and then they will not make the call. In workshops I hear the same line. Someone says they will ring after lunch, because it is about two o’clock and the customer might be in a meeting. What they usually mean is that they feel like they are bothering someone.
+
+I worked with an after school activity provider that was packed before and during the summer. They took the bookings that came in, and they did not sell beyond that. Summer was the moment to put winter packages in front of parents and book the quiet months while people were already saying yes. They did not do it. When winter came and the phones went quiet, they complained, fixed their website, hired a lead gen agency, bought Instagram ads so the phone might ring. The names were already in the address book. All they had to do is dial it in.
+
+> **Outgrow is the doing. You make the call because you are helping, not bothering. If they are busy, you leave a voicemail or a voice note and follow it with a text. There is a very high statistical probability (we exactly know…) that they will communicate back with you.**
+
+Then you count the calls, so day three and beyond does not turn into an excuse.
+
+If you want a written reply on whether 15–30% systematic organic growth looks realistic for your business for next year, connect and I will send you five questions.
+
+You will have the reply within five working days. If it is not a fit, you still get the reply.
+
+## No Activity, No Revenue
+
+- Date: 21 September 2026
+- Mirror: https://sidjashnani.com/blog/no-activity-no-revenue/
+- Original: https://sidjashnani.substack.com/p/no-activity-no-revenue
+
+When the diary falls apart, the very first thing founders drop is the only thing that actually feeds the pipeline.
+
+# No Activity, No Revenue
+
+- Date: 21 September 2026
+- Mirror: https://sidjashnani.com/blog/no-activity-no-revenue/
+- Original: https://sidjashnani.substack.com/p/no-activity-no-revenue
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+When the diary falls apart, the very first thing founders drop is the only thing that actually feeds the pipeline.
+
+My luggage was stuck somewhere in transit, the calendar for the rest of the week was completely derailed, and an in-person revenue growth workshop was still waiting for me to be delivered.
+
+![Image from the essay “No Activity, No Revenue”](https://sidjashnani.com/assets/blog/no-activity-no-revenue/ffd5e190d16adca6.webp)
+
+My immediate instinct, which is probably the same instinct most of us have when things go wrong, was to start complaining. I wanted to blame the airport management, the weather, and the ground crew, giving myself full permission to write off the entire afternoon. But as I opened my notepad to list the things I needed to get done, I glanced at a short reminder I had posted down few weeks ago during another messy week.
+
+**It simply said that complaining about a lack of results is usually just an excuse to hide from the activity that creates them.**
+
+That note stung, mostly because it brought back a very specific, very uncomfortable memory from when I had first moved across the Arabian sea to live in Dubai.
+
+![Image from the essay “No Activity, No Revenue”](https://sidjashnani.com/assets/blog/no-activity-no-revenue/e62cfbfdf63d4e2d.webp)
+
+I had convinced myself that I had reached a stage in my career where the standard rules of commercial legwork no longer applied to me. I started suffering from what I now call Elite Surgeon Syndrome. I thought of myself like a top specialist on Harley Street, someone who sits quietly in a private consulting room while clients queue up down the hall, wait their turn, and politely ask for an appointment.
+
+Because I believed I was above the basic, unglamorous work of picking up the phone and following up, I completely stopped doing it. I told myself that outbound follow-up was undignified, that my reputation would carry the load, and that serious people wait for inbound demand.
+
+Meanwhile, living costs and the monthly business burn rate remained entirely real. Dubai is an expensive place to entertain delusions. The hunger slowly evaporated, but the overheads did not. It took an uncomfortably long time, and a painful amount of burned cash, to admit the truth to myself. I was not operating like an elite specialist. I was just hiding behind my ego because I thought I had outgrown the basics.
+
+**Whenever revenue stalls in a business, founders almost always look for complicated explanations.**
+
+They tell themselves they have a positioning issue, or an offer structure problem, or that the market needs a completely new strategic narrative. What is actually happening is much simpler and much harder to face. When the diary blows up, or when a good year whispers in your ear that you have arrived, the very first thing you drop is the daily commercial legwork.
+
+That drift is human, and I know how easily I slip into it myself. It is genuinely the main reason Outgrow exists in my working life today. Alex Goldfayn created the system, and when I stepped in as CEO of Outgrow LLC, it was not because I thought I had solved sales forever. It was because I needed an operating system that would protect me from my own complacency.
+
+![Image from the essay “No Activity, No Revenue”](https://sidjashnani.com/assets/blog/no-activity-no-revenue/5bcd5cedd483a944.webp)
+
+At its heart, the Outgrow methodology is a disciplined, weekly rhythm of proactive outreach to people you already know. You reach out to existing clients and past relationships before they ask. You look for ways to be genuinely useful to them, you track your swings honestly, ask for referrals, and you stay humble enough to pick up the phone week after week. Not through clever tricks, but through pure consistency.
+
+Do not spend Sunday tweaking your deck or rewriting your website copy.
+
+**Shrink your horizon right down to today. The work will still feel unglamorous, but your pipeline will start moving again.**
+
+Happy Selling,
+
+Sid
+
+CEO, Outgrow LLC
+
+## Why “we’ll run it internally” almost never gets run
+
+- Date: 15 September 2026
+- Mirror: https://sidjashnani.com/blog/why-well-run-it-internally-almost/
+- Original: https://sidjashnani.substack.com/p/why-well-run-it-internally-almost
+
+Two questions: why haven’t you done this before, and what will be different going forward?
+
+# Why “we’ll run it internally” almost never gets run
+
+- Date: 15 September 2026
+- Mirror: https://sidjashnani.com/blog/why-well-run-it-internally-almost/
+- Original: https://sidjashnani.substack.com/p/why-well-run-it-internally-almost
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Two questions: why haven’t you done this before, and what will be different going forward?
+
+Two hours into the session. The whiteboard is covered. The leadership team is nodding along, agreeing with every single point.
+
+Then the owner leans back in his chair:
+
+“This is great. But honestly, I think we can just run this ourselves.”
+
+Nobody in that room is lying.
+
+They are smart, capable people. They have a CRM. They have weekly leadership meetings. They have a competent sales manager. On paper, there is zero reason they could not build and install the entire operating rhythm tomorrow morning.
+
+Yet they almost never do.
+
+> **Over the years, I learned never to argue when an owner says that. Arguing turns the room into a contest, and you never win a contest with a founder in their own boardroom.**
+
+Instead, I ask two simple questions.
+
+> **First: “Why haven’t you done this already?”**
+
+Then I stop talking.
+
+The honest answer usually surfaces after a short pause. We have been busy firefighting. We talked about doing it last Q4. We kicked off an initiative two years ago, but daily client demands took over and it drifted.
+
+Then comes the second question.
+
+> **“What is actually going to be different this time?”**
+
+That is the uncomfortable one.
+
+Because the person assigned to enforce the daily outreach, hold people accountable to the call log, and inspect the inputs is the exact same person who has to sit next to them at lunch tomorrow.
+
+When accountability is internal, grading gets soft.
+
+A team member misses their daily calls for three days straight because an operational fire broke out. The manager lets it slide because they understand the stress. By week three, proactive calls become optional again. By month two, the entire system has quietly evaporated into the background.
+
+I once watched a single division inside a mid-market distributor attempt to run the playbook entirely on their own. That one division managed about 20% growth because the department head was unusually stubborn.
+
+The rest of the business? Completely flat.
+
+Same company. Same materials. Totally different execution.
+
+Nobody grades their own homework honestly. Not because people are malicious or lazy, but because we naturally protect workplace harmony over awkward compliance conversations.
+
+> **Artificial harmony only causes problems.**
+
+The issue was never capability.
+
+“We can do this ourselves” is rarely a strategy.
+
+More often, it is an unconscious admission that everyone likes the idea of the result, but nobody inside the building wants the daily friction of enforcing the standard.
+
+## We found $4M in his existing customers in 45 minutes
+
+- Date: 8 September 2026
+- Mirror: https://sidjashnani.com/blog/we-found-4m-in-his-existing-customers/
+- Original: https://sidjashnani.substack.com/p/we-found-4m-in-his-existing-customers
+
+No new market. No new product. No new hires.
+
+# We found $4M in his existing customers in 45 minutes
+
+- Date: 8 September 2026
+- Mirror: https://sidjashnani.com/blog/we-found-4m-in-his-existing-customers/
+- Original: https://sidjashnani.substack.com/p/we-found-4m-in-his-existing-customers
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+No new market. No new product. No new hires.
+
+I sat with a friend who runs a $7M business and in 45 minutes we found $4M he didn’t know he had.
+
+No new market. No new product. No new hires. Just his existing customers.
+
+Here’s what we did. I asked him to list his top customers by revenue. Then his middle tier. Then his smallest accounts. Then I asked for two more lists: prospects he’d quoted in the last two years and lost, and customers who’d stopped buying.
+
+Five segments. Took about fifteen minutes to build.
+
+Then I asked one question for each segment.
+
+For the top tier: “What else do you sell that they don’t buy from you yet?” He started listing services. Three of his biggest clients had no idea he offered two of his most profitable lines. They were buying those services from someone else. Not because they preferred the competitor. Because nobody had ever told them.
+
+For the middle tier: “What would it take to move them up?” In most cases, one conversation. One proactive call asking what else they needed. That’s it.
+
+For the smallest accounts: “Are any of these worth growing, or are they just filling your capacity?” He realised four of them were costing him money. Unprofitable work he’d never reviewed.
+
+For the lost quotes: “Have you followed up since they said no?” He hadn’t. Not once. Some of those quotes were eighteen months old. The prospects’ situations had changed. Their budgets had reset. Nobody had called.
+
+For the churned customers: “Do you know why they left?” He didn’t. Not for most of them. No exit conversation. No follow-up. They just stopped ordering and he assumed they’d found someone better.
+
+> **Forty-five minutes. Five segments. $4M mapped on a single page.**
+
+His response: “We can easily do 70% of what you’ve just put on this page.”
+
+That’s $2.8M. From customers who already know him, already trust him, already have a relationship with him. No cold outreach. No ad spend. No new logo acquisition.
+
+One common thing I hear from founders is “we need more leads.” And I always ask the same thing. What are you already sitting with?
+
+Every customer you have can buy more from you. Every customer. We just don’t ask. Silence is not satisfaction. It’s just silence. And the money sitting inside your existing base will go to a competitor who does ask, eventually.
+
+The work isn’t complicated. It’s a segmentation exercise and a series of phone calls. But it requires someone to actually pick up the phone and have the conversation.
+
+> **As goes your actions, so goes your revenue.**
+
+What percentage of your existing customers know about everything you sell?
+
+Keep Selling,
+
+Sid
+
+-
+
+## The Question Before the Pitch
+
+- Date: 18 August 2026
+- Mirror: https://sidjashnani.com/blog/the-question-before-the-pitch/
+- Original: https://sidjashnani.substack.com/p/the-question-before-the-pitch
+
+Why the best salespeople surface objections on purpose, before they even start selling.
+
+# The Question Before the Pitch
+
+- Date: 18 August 2026
+- Mirror: https://sidjashnani.com/blog/the-question-before-the-pitch/
+- Original: https://sidjashnani.substack.com/p/the-question-before-the-pitch
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Why the best salespeople surface objections on purpose, before they even start selling.
+
+What would be the reasons we're not going to move forward?
+
+That's the question one of our Outgrow Certified Advisors opened with on a pre-proposal call last month.
+
+Not "let me walk you through what we do." Not "here's how we've helped companies like yours." Not even "what are your goals this quarter?"
+
+Just that one line. Before the pitch. Before the deck. Before anything.
+
+And the room went quiet for about five seconds. Then the prospect said something no one expected.
+
+"Honestly? We've been burned before. We hired a consulting firm last year that promised transformation and disappeared after 90 days. So my biggest concern is that this is going to be another one of those."
+
+Four minutes into the call, the real blocker was on the table. Not budget. Not timing. Not "we need to talk to our board." The actual thing that would have quietly killed the deal three weeks later came out in the first conversation.
+
+Here's why this works.
+
+Most salespeople treat objections like obstacles. Something to overcome. Something to handle. They prepare scripts for "too expensive" and "we're happy with our current provider" and "send me some information." They rehearse comebacks.
+
+But the best salespeople don't handle objections. They invite them.
+
+When you ask someone why they wouldn't move forward before you've even started selling, two things happen.
+
+First, the prospect feels safe. You're not pushing. You're not pitching. You're asking them to be honest, and you're doing it before they have any reason to put their guard up. That changes the entire energy of the conversation.
+
+Second, you get to build your entire proposal around the thing that actually matters. Instead of guessing what matters, instead of leading with features and hoping something sticks, you know exactly what to address. Your pitch becomes a direct answer to their deepest concern.
+
+The advisor on that call didn't panic when the prospect said "we've been burned before." He didn't rush to differentiate. He just said, "Tell me more about what happened." And for the next ten minutes, the prospect told him everything. The bad experience. The broken trust. The specific things that would need to be different this time.
+
+By the time the advisor started talking about Outgrow, he wasn't selling anymore. He was responding to a specific problem with a specific solution. The prospect had already told him exactly what to say.
+
+> This is what proactive selling actually looks like. It's not about being pushy. It's not about volume. It's about asking better questions earlier than anyone else is willing to.
+
+Most people wait for objections to surface on their own. They hope they won't come up. And when they do, usually in week three of the sales cycle when the deal is about to close, everyone scrambles.
+
+The question before the pitch eliminates that scramble. It pulls the future into the present. It lets you deal with reality instead of assumptions.
+
+Try it on your next call. Before you open your deck, before you share your screen, before you do anything, ask: "What would be the reasons we wouldn't move forward?"
+
+Then be quiet. Let them answer. And build everything that follows around what they tell you.
+
+Hit reply and tell me the objection you keep hearing too late. I'll tell you the question that surfaces it in the first five minutes.
+
+## You already have the customers. You just have a small share of each one.
+
+- Date: 11 August 2026
+- Mirror: https://sidjashnani.com/blog/you-already-have-the-customers-you/
+- Original: https://sidjashnani.substack.com/p/you-already-have-the-customers-you
+
+Revenue growth and execution discipline for leaders who are done with guessing.
+
+# You already have the customers. You just have a small share of each one.
+
+- Date: 11 August 2026
+- Mirror: https://sidjashnani.com/blog/you-already-have-the-customers-you/
+- Original: https://sidjashnani.substack.com/p/you-already-have-the-customers-you
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Revenue growth and execution discipline for leaders who are done with guessing.
+
+I ran a business to £27M and never once asked a customer what percentage of their spend came to me.
+
+Not once. I could have told you what every account was worth to the pound. I had no idea what that pound was a fraction of.
+
+Nobody teaches you to ask. It feels faintly rude, like asking somebody what they earn.
+
+Then one of our Outgrow advisors told me about a distributor. $14M one year, $25.5M the next. No acquisition, no new sales hires, roughly the same list of customers as before. What changed is that the people who had spent a decade taking orders started ringing people instead.
+
+I found that super interesting when I first heard it and reflected back on the time when I was running my system integration business. What irritated me was that the growth was sitting there the whole time, and reason nobody collected it was not the market, which I often blamed when things were not looking too rosy.
+
+---
+
+## The question
+
+Pick your tenth biggest customer. Not the top one. You are far too invested in the top one to be honest about it.
+
+Now answer this: what share of everything they spend in your category comes to you?
+
+Most founders cannot. They know the invoice. They have never gone and found the denominator.
+
+So they have been treating a 12% relationship and a 90% relationship in exactly the same way for years, and only one of those has any room left in it.
+
+I sat with an owner last year who worked out he had about a tenth of an account he had been calling “ours” since 2011. He wasn’t cross with the customer. He went quiet, and then said, nobody has ever asked them.
+
+Loyal is not the same word as exclusive. Loyal usually means they keep buying the thing they have always bought from you and get everything else somewhere down the road.
+
+---
+
+## How to actually ask it
+
+Not a survey. On a call, in a normal voice, the way you’d ask anything else.
+
+“Roughly what share of your spend in this category comes our way at the moment?”
+
+Then shut up.
+
+People answer it far more easily than you would expect. It costs them nothing, and being asked flatters them slightly.
+
+Then the follow up, which is the one that actually pays:
+
+“What would have to be true for that to be a bigger number?”
+
+You are not selling now. The buyer is telling you, in their own words, exactly what sits between you and the rest of their budget. Sometimes it’s price. More often it’s that they had no idea you did the other thing.
+
+That’s the part that still gets me. A good chunk of what people are chasing on a Sunday night is sitting behind a sentence nobody said out loud.
+
+---
+
+## What it looks like when someone actually runs it
+
+A talent and professional services business had five flat years and then put on $900K of new growth, 18% in five months. A copier and IT services firm did 20% in half a year. An IT company nearly tripled its count of new customers in the first month, which I would treat with some suspicion if I hadn’t watched the same shape happen elsewhere.
+
+None of them found a new market. They went and asked the people who were already paying them.
+
+---
+
+## Why it won’t happen on its own
+
+Because “ask your customers what share you’ve got” is advice. Advice does not survive a Tuesday.
+
+Somebody has to decide who gets asked this week. Somebody has to write down what they said. And somebody has to look at that list on Friday, notice that four of the eleven never happened, and say something about it, which is the bit everyone quietly skips.
+
+That is what **Outgrow** is. A sales operating system. Sales doing, not sales training. Prescribed daily behaviours, five to ten minutes a person, logged, looked at every week, done by everyone who touches a customer rather than only the people with sales in the job title.
+
+You don’t need more customers to grow 15 to 30% next year. You need more of the ones already picking up the phone to you.
+
+I got to £27M without knowing that. I have no idea what it cost me and I have stopped trying to work it out.
+
+What share of your best customer’s spend do you actually have, and when did anybody last ask them?
+
+## Train the frontline and you get a good week. Train the manager and you get a good year.
+
+- Date: 4 August 2026
+- Mirror: https://sidjashnani.com/blog/train-the-frontline-and-you-get-a/
+- Original: https://sidjashnani.substack.com/p/train-the-frontline-and-you-get-a
+
+Stop installing your revenue system in the wrong place.
+
+# Train the frontline and you get a good week. Train the manager and you get a good year.
+
+- Date: 4 August 2026
+- Mirror: https://sidjashnani.com/blog/train-the-frontline-and-you-get-a/
+- Original: https://sidjashnani.substack.com/p/train-the-frontline-and-you-get-a
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Stop installing your revenue system in the wrong place.
+
+Most founders install a new sales habit at the frontline.
+
+They gather the sellers. They teach the behaviour. Everyone nods. It works for a fortnight. Then it fades.
+
+Not because the people are weak. Because the habit had nobody to hold it.
+
+Alex Goldfayn put a number on this that I keep coming back to. Working with managers is roughly 80/20 more impactful than working with the frontline. Same effort, four times the return, because a manager doesn’t do the behaviour once. A manager multiplies it across a team, every week, for as long as they run the team.
+
+Teach a seller and you’ve changed one person’s Tuesday. Teach a manager to run the system and you’ve changed how forty people work for a year.
+
+## What the manager actually holds
+
+The behaviour survives because someone runs a weekly huddle around it. Not a status meeting. A short, repeatable rhythm with four parts.
+
+Review the scorecard. Who did the proactive work last week, who didn’t, what did it produce.
+
+Share the wins. Read out a real one. A dormant customer reopened, a quote chased down, an order size that grew. Wins are contagious, and they teach faster than instruction.
+
+Prescribe the customers. Name who each person calls this week. Not “make some calls.” These customers, by name.
+
+Prescribe the products. Point at what to talk about, so the calls have a purpose beyond checking in.
+
+Fifteen minutes. Every week. Same shape.
+
+## The one rule that holds it together
+
+Always connect the actions to revenue. Never track actions in isolation.
+
+The moment a huddle becomes “did you make your calls,” it dies, because it feels like surveillance. When it stays “here’s the revenue those calls opened,” it lives, because everyone can see the point.
+
+That’s the difference between a manager policing activity and a manager leading growth.
+
+## Why founders get this wrong
+
+Because the frontline is where the selling looks like it happens. So that’s where the attention goes.
+
+But the frontline is where the behaviour is done. The manager’s chair is where the behaviour is kept alive. Install it there and it compounds. Install it below there and you’re re-teaching it every month until you give up and call the system a failure.
+
+It wasn’t the system. It was the level you installed it at.
+
+**Outgrow is built to live in the manager’s weekly rhythm. Sales doing, not sales training. The frontline makes the calls. The manager makes sure next week they still do.**
+
+## The close
+
+A seller can give you a good week.
+
+A manager who runs the rhythm gives you a good year.
+
+Who in your business is actually holding the weekly rhythm your revenue depends on, and what happens to it the week they stop?
+
+## The one question that turns "really keen" into money.
+
+- Date: 21 July 2026
+- Mirror: https://sidjashnani.com/blog/the-one-question-that-turns-really/
+- Original: https://sidjashnani.substack.com/p/the-one-question-that-turns-really
+
+They said yes. So why isn't it a sale?
+
+# The one question that turns "really keen" into money.
+
+- Date: 21 July 2026
+- Mirror: https://sidjashnani.com/blog/the-one-question-that-turns-really/
+- Original: https://sidjashnani.substack.com/p/the-one-question-that-turns-really
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+They said yes. So why isn't it a sale?
+
+**“Yes, this makes complete sense.”**
+
+You’ve heard it. It feels like the finish line.
+
+It isn’t. A yes without a date is just a nice feeling you both had in a room. And feelings cool.
+
+So after the yes, I ask one question.
+
+“When would you like to launch?”
+
+If they give me a date, wonderful. It goes in the calendar and the deal has somewhere to live.
+
+If they don’t, I don’t retreat. I climb down the ladder.
+
+No date? “Which month are you picturing?” No month? “This quarter or next? Before the summer or after?” No quarter? “Is this a this-year decision, or a next-year one?”
+
+Each rung asks for less. Each rung still asks for something.
+
+### Why this works
+
+The power is not the information. It’s the commitment the question raises.
+
+A prospect who says “September” has done something the prospect who says “soon” hasn’t. They’ve pictured it. They’ve put it on a mental calendar. They’ve made it real to themselves, in their own words, out loud.
+
+And here is what I’ve watched happen more than once. A client starts growing revenue the moment they decide to run Outgrow. Before the launch. Before the first prescribed call. The decision itself changes how the team shows up on Monday, because now there is a date, and a date organises behaviour the way a wish never does.
+
+### The prospect who genuinely can’t start yet
+
+Sometimes the timing is real. They can’t begin for months.
+
+Fine. Offer to hold the slot. A small deposit secures the date.
+
+Framed right, that’s a gift to them, not a hoop for you. They plan around it. They’ve committed to their own calendar, not just to a warm chat with you.
+
+### The mistake I made for years
+
+I treated the yes as the close.
+
+So I’d send a friendly “just checking in,” get a friendly “still keen,” and six weeks later the warmth had faded to nothing. Nobody said no. The deal just never had a date to stand on.
+
+Interest decays. A date does not.
+
+Outgrow runs on commitments, logged and reviewed, not on good feelings remembered.
+
+### The close
+
+A yes tells you they like it. A date tells you they’ll do it.
+
+Which deal in your pipeline is “really keen” with no date on it? That’s not a win yet. That’s your next call.
+
+## THE COMMITMENT LADDER
+
+After the yes, get a date. If you can’t get a date, get a rung. Ask the top rung first, then climb down one step at a time until they commit to something.
+
+**1. Date** — “When would you like to launch?” → a calendar entry; the deal has somewhere to live. **2. Month** — “Which month are you picturing?” → they’ve placed it in real time. **3. Quarter** — “This quarter or next? Before summer or after?” → a window you can plan and follow up against. **4. Year** — “Is this a this-year decision, or a next-year one?” → the truth about how real it is.
+
+**The rule:** the power isn’t the information you gather. It’s the commitment the question raises. Saying “September” out loud does something “soon” never will.
+
+**For the prospect who genuinely can’t start for months, the deposit move:**
+
+> “Sounds like the timing is a few months out. Want me to hold the slot for you? A small deposit secures the date so you can plan around it.”
+
+Framed as their benefit, not your hoop. They commit to their own calendar.
+
+A yes tells you they like it. A date tells you they’ll do it.
+
+Interest decays; a date does not.
+
+Sid Jashnani | sidjashnani.com | sidjashnani.substack.com
+
+## Stop Answering Sales Objections
+
+- Date: 17 July 2026
+- Mirror: https://sidjashnani.com/blog/stop-answering-sales-objections/
+- Original: https://sidjashnani.substack.com/p/stop-answering-sales-objections
+
+Every answer you give a prospect buys you a harder question
+
+# Stop Answering Sales Objections
+
+- Date: 17 July 2026
+- Mirror: https://sidjashnani.com/blog/stop-answering-sales-objections/
+- Original: https://sidjashnani.substack.com/p/stop-answering-sales-objections
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Podcast
+
+Every answer you give a prospect buys you a harder question
+
+Every answer you give a prospect buys you a harder question. Stop answering objections. Start asking them.
+
+I’m Sid Jashnani, CEO of Outgrow LLC and an Outgrow Certified Advisor. [Outgrow](http://runoutgrow.com) is the sales operating system that makes the rest of the stack do what it was supposed to do. Predictable revenue growth of 15 to 30% a year for founders who are done with guessing.
+
+Newsletter: sidjashnani.substack.com/welcome
+
+Work with me: sidjashnani.com
+
+#salesobjections #objectionhandling #b2bsales #salestraining #founders #revenuegrowth #salesoperatingsystem
+
+## Referrals aren’t luck
+
+- Date: 7 July 2026
+- Mirror: https://sidjashnani.com/blog/referrals-arent-luck/
+- Original: https://sidjashnani.substack.com/p/referrals-arent-luck
+
+Stop waiting for referrals. Start asking for them.
+
+# Referrals aren’t luck
+
+- Date: 7 July 2026
+- Mirror: https://sidjashnani.com/blog/referrals-arent-luck/
+- Original: https://sidjashnani.substack.com/p/referrals-arent-luck
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Stop waiting for referrals. Start asking for them.
+
+**Referrals aren’t luck. They’re a question nobody asks.**
+
+Every founder loves a referral.
+
+Warmest lead there is. Half sold before the first call. The cheapest pipeline in the business.
+
+And almost nobody asks for them on purpose.
+
+We treat referrals like weather. Something that happens to us. A nice surprise when it lands, a quiet disappointment when it doesn’t.
+
+Here is the truth. Your happiest customer right now knows two or three people who should be buying what you sell. People in their world. People with the same problem you just solved for them.
+
+They would introduce you gladly.
+
+You have just never asked.
+
+## Why we don’t ask.
+
+It feels needy.
+
+You did good work, the client is happy, and something in you says don’t push it. Don’t spoil it. Don’t look like you need it.
+
+That is the same voice that kills proactive selling everywhere. The fear of being a bother.
+
+So flip it round.
+
+You are not asking for a favour. You are giving someone you have helped the chance to help someone they care about. You solved a real problem for them. There is a person in their network with that exact problem, losing sleep over it right now. The introduction is a gift in both directions.
+
+See it that way and the ask stops feeling like begging.
+
+## The ask, made specific.
+
+“Do you know anyone who might need me?” gets you nothing. It is too big. The brain goes blank.
+
+Make it small and specific.
+
+“Who else do you know who is dealing with the exact thing I just fixed for you?”
+
+“You said you are happy with how this went. Is there one person you would feel comfortable introducing me to?”
+
+One problem. One person. Easy to answer.
+
+## Why it has to be systematic.
+
+One referral ask is easy. Remembering to ask, every time, across everyone who touches a customer, is hard. That is where it falls apart. It gets left to the moments people happen to feel brave.
+
+So you stop leaving it to chance.
+
+In Outgrow, the referral ask is a prescribed action. Scripted, assigned, logged, and reviewed every week alongside the proactive calls and the “did you know” questions. It gets counted like every other swing, because we know the batting average. Ask enough happy customers, and a predictable share say yes.
+
+[Outgrow. The sales operating system that makes the rest of the stack do what it was supposed to do.](http://runoutgrow.com)
+
+Luck becomes a number you can grow.
+
+## The shift.
+
+Stop hoping your best customers send people your way.
+
+Start asking them, on purpose, every week.
+
+Who is the one happy customer you could ask this week, and whose name do you think they would give you?
+
+-
+
+Sid Jashnani
+
+Outgrow Certified Advisor™,
+
+CEO of Outgrow
+
+sidjashnani.com | sidjashnani.substack.com
+
+## You didn't overpay. You under-committed.
+
+- Date: 23 June 2026
+- Mirror: https://sidjashnani.com/blog/you-didnt-overpay-you-under-committed/
+- Original: https://sidjashnani.substack.com/p/you-didnt-overpay-you-under-committed
+
+Why the thing you bought to grow became the thing you resent
+
+# You didn't overpay. You under-committed.
+
+- Date: 23 June 2026
+- Mirror: https://sidjashnani.com/blog/you-didnt-overpay-you-under-committed/
+- Original: https://sidjashnani.substack.com/p/you-didnt-overpay-you-under-committed
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Why the thing you bought to grow became the thing you resent
+
+There’s a particular way to waste money that almost nobody warns you about.
+
+It isn’t buying the wrong thing. It’s buying the right thing and going half-in.
+
+I see it with founders all the time. They invest in something real. A system, a process, a way of working that genuinely moves revenue. They mean it when they sign. And then the week happens.
+
+The system needs twenty minutes a day. They give it twenty minutes when there’s nothing more urgent, which is never. It needs a weekly rhythm. They run it for two weeks, miss one, then quietly stop.
+
+Six months later they look at what they spent and feel cheated.
+
+But the system didn’t fail them. It was never switched on.
+
+Here’s the line I keep coming back to. Anything worth doing becomes a very expensive hobby the moment you go half-in.
+
+A gym membership you use twice a month is the most expensive way to not exercise. A CRM nobody updates is the most expensive way to forget your customers. And a growth system you run when you feel like it is the most expensive way to stay exactly where you are.
+
+The cost isn’t the invoice. The cost is paying for the outcome and not collecting it.
+
+## Why Not Now?
+
+- Date: 12 June 2026
+- Mirror: https://sidjashnani.com/blog/why-not-now/
+- Original: https://sidjashnani.substack.com/p/why-not-now
+
+How a text message forced me to stop coaching around the problem and start solving it.
+
+# Why Not Now?
+
+- Date: 12 June 2026
+- Mirror: https://sidjashnani.com/blog/why-not-now/
+- Original: https://sidjashnani.substack.com/p/why-not-now
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+How a text message forced me to stop coaching around the problem and start solving it.
+
+A client sat across from me, furious.
+
+“We’ve done all of this and we’re back to square one.”
+
+ICP built. Playbook done. Comp plan in place. Months of work. And not a single deal moved.
+
+That conversation kept happening. Different client, same words.
+
+Eventually I had to admit the thing I’d been stepping around for years. I was coaching everything except the thing that mattered most. Sales.
+
+𝗧𝗵𝗲 𝗰𝗼𝗺𝗳𝗼𝗿𝘁𝗮𝗯𝗹𝗲 𝘁𝗿𝗮𝗽
+
+For years I had a business that worked. Good clients. Good conversations. Two, maybe three days a week of real work.
+
+Comfortable. And that was the problem.
+
+Because in every quarterly review, the same thing surfaced. The top line wouldn’t move. Coaching only works when there’s demand. And as markets got crowded, demand stopped being a given.
+
+Sales solves a lot of problems. When it’s firing, the operational noise quiets down. When it isn’t, everything gets louder. More frustration. More blame. People stop adding to the pipeline and start clinging to what’s left.
+
+I could see the problem in every business I worked with. I just couldn’t fix it.
+
+𝗧𝗵𝗲𝗻 𝗮𝗻 𝗲𝗺𝗮𝗶𝗹 𝗮𝗿𝗿𝗶𝘃𝗲𝗱
+
+It was from Alex Goldfayn. An invitation to see what his system, Outgrow, could do inside a practice like mine.
+
+I’d read the lots of sales books. Every one of them told you how to think about selling. How to handle the objection, how to structure the team.
+
+None of them showed you how to actually do it.
+
+Outgrow did. It was the doing.
+
+The decision in front of me was simple. Get certified in January, or wait until April.
+
+Naturally, I picked April. A bit more time. A bit more runway. Get a few things in order first.
+
+It was a lie. The same “later” I’d watched a hundred clients hide behind.
+
+𝗧𝗵𝗲 𝘁𝗲𝘅𝘁
+
+Then Alex sent a message.
+
+“Why not now? What’s stopping you from helping yourself and your clients make more money? Do you think it’ll be that different in April?”
+
+I read it a few times. It landed because it was true. I was letting life happen to me. Waiting for a better moment that was never going to announce itself.
+
+Twenty years has taught me this: if you’re not sure where you’re going, you’ll still end up somewhere. But if you know exactly where you’re going, the path gets easier. The waiting is just fog.
+
+I booked January.
+
+𝗧𝗵𝗲 𝗸𝗶𝘁𝗰𝗵𝗲𝗻 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗮𝘁𝗶𝗼𝗻
+
+I told my wife it was a big investment. Significant. She asked the obvious question. Why this, why now.
+
+So I talked her through the whole thing. Sales is the number one problem for the people I work with. Solve sales and you fund everything else. You give a business the budget and the breathing room to fix the rest.
+
+She listened. Then she said, “Yeah, that makes sense. You need sales to grow.”
+
+I needed to hear myself say it out loud as much as I needed her to agree. By the end of that conversation, I wasn’t apprehensive anymore. I was certain.
+
+𝗪𝗵𝗮𝘁 𝗵𝗮𝗽𝗽𝗲𝗻𝗲𝗱 𝗻𝗲𝘅𝘁
+
+I flew to Chicago. Got certified. Rebuilt my practice around one thing instead of ten.
+
+The first three months were uncomfortable. New language. New rhythm. Calls I hadn’t made in years.
+
+But by the end of those three months, I’d closed three clients.
+
+From a standing start. From a business I’d just decided to blow up because it was too comfortable.
+
+Most growth doesn’t die from a bad decision. It dies in the gap between deciding and doing.
+
+So let me leave you with the question Alex left me with.
+
+That hire you’re waiting on. That system you’ll implement next quarter. That conversation you keep putting off.
+
+Why not now?
+
+— Sid
+
+Outgrow Certified Advisor.
+
+CEO at Outgrow LLC.
+
+Twenty years building businesses and a lot of lessons that cost more than they should have.
+
+---
+
+P.S. Alex Goldfayn is hosting a [live Client Journey Webinar](https://us06web.zoom.us/meeting/register/j5KxZ_fbT52_KFgylse1Rg#/registration) next Thursday, June 18th 6PM BST (12pm Central time) for owners, CEOs, and business leaders. It's consistently one of the most effective ways to move prospects forward, with many attendees going on to book the next conversation.[Feel free to register using the link here](https://us06web.zoom.us/meeting/register/j5KxZ_fbT52_KFgylse1Rg#/registration), and if you do, please add my name in the "Referred by" field.
+
+![Image from the essay “Why Not Now?”](https://sidjashnani.com/assets/blog/why-not-now/03f2e47b297dc0bb.webp)
+
+## Your CRM is not your sales system. Here is what is...
+
+- Date: 2 June 2026
+- Mirror: https://sidjashnani.com/blog/your-crm-is-not-your-sales-system/
+- Original: https://sidjashnani.substack.com/p/your-crm-is-not-your-sales-system
+
+A CEO sat across from me last month and said: “I’ve got a sales team.
+
+# Your CRM is not your sales system. Here is what is...
+
+- Date: 2 June 2026
+- Mirror: https://sidjashnani.com/blog/your-crm-is-not-your-sales-system/
+- Original: https://sidjashnani.substack.com/p/your-crm-is-not-your-sales-system
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+A CEO sat across from me last month and said: “I’ve got a sales team.
+
+A CEO sat across from me last month and said: *“I’ve got a sales team. A CRM. A methodology my last consultant left behind. And a coach who shows up every quarter. So why does my revenue still wobble?”*
+
+I told him what was missing.
+
+He stared at me. Then he said: *“Why does no one talk about this?”*
+
+That’s the post.
+
+---
+
+**The stack everyone has. The part nobody can name.**
+
+Walk into any £5M+ business and you’ll see the same stack.
+
+A sales team. A CRM. A methodology the team got trained on two years ago. A coach who flies in once a quarter. A pipeline review every Friday that everyone half-attends.
+
+And revenue still wobbles.
+
+Quarter to quarter. The forecast is a guess dressed up as a number. Good months feel like luck. Bad months feel like a personal failing.
+
+I’ve been in those rooms for twenty years. First as a founder building a £27M business. Next as a business coach that would fly in to facilitate quarterly planning sessions and now as the CEO of an organisation that’s implemented this work across five hundred companies.
+
+The pattern is so consistent it stopped being interesting and started being useful.
+
+**Here’s the thing nobody names.**
+
+Every good business has a **business operating system**. It’s how they run meetings. Set priorities. Hold people accountable. The CEO can describe it in two sentences.
+
+Ask the same CEO what their **sales operating system** is. You’ll get a list.
+
+*“We have a CRM.”*
+
+*“We have a sales playbook.”*
+
+*“We just hired a head of sales.”*
+
+*“We did training last year.”*
+
+None of those are a sales operating system. They are inputs. Tools. Assets. They sit around the system that doesn’t exist yet.
+
+> A CRM records what happened. It doesn’t create what happens next.
+
+Sales training tells your team what to say. It doesn’t change what they do on Tuesday at 10am when they have ten minutes between meetings and they have to choose between making a proactive call or refreshing their inbox.
+
+A coach can light a fire. They cannot implement a daily behaviour across 22 customer-facing people who will quietly opt out the moment the coach leaves the room and does not follow up till next quarter.
+
+The category is missing.
+
+**Here’s what it looks like when you implement Outgrow® Sales Operating System.**
+
+I worked with a founder last quarter who told me his sales team makes 200 calls a week. Revenue was flat.
+
+I asked him how many of those 200 calls were proactive. Calls his team initiated. Not responses. Not renewals. Not reactions to a problem.
+
+He didn’t know. Nobody in his business did.
+
+We added one number to the weekly scorecard. Proactive calls per person.
+
+Four weeks later that number was 38. The team had been calling. They had just been **responding**, not **initiating**. The behaviour that drives growth was missing. Nobody could see it until we counted it.
+
+I call this **behaviour blindness**. It is the gap between activity and revenue, hiding in plain sight on every dashboard that only counts what already happened.
+
+A sales operating system closes that gap.
+
+**What a sales operating system like Outgrow® actually does.**
+
+It treats every customer-facing person as a revenue role. Service techs. Project managers. Account managers. Customer success. Not just the sales team.
+
+It runs on behaviours, not pipeline. We track what people do, not what they hope. Behaviours are leading. Pipeline is lagging. By the time pipeline tells you something is wrong, it already is.
+
+It builds in the support that humans actually need. Mindset coaching every week. Relaunches built into year two and year three because the work will fade. That is not a deficiency. That is the nature of asking humans to take extra actions. Every methodology that has pretended otherwise has watched its implementation die or wither after novelty wears off.
+
+**The CEO objection.**
+
+*“We already have a CRM. We already have a sales team. Why do I need another thing?”*
+
+You don’t need another thing.
+
+You need the thing all those things are sitting around but never quite become.
+
+A CRM is a filing cabinet. A sales team is a group of people. A methodology is a slide deck. None of them, alone or together, install the daily behaviour that makes 15 to 30 percent of growth predictable.
+
+**Outgrow® does.**
+
+The category is missing. So I’m naming it.
+
+---
+
+**The question to sit with.**
+
+If I asked your top ten customers what proactive contact looks like from your business in the last 90 days, what would they say?
+
+Not the call when something went wrong. Not the renewal call. The contact where you reached out to ask what else you could help with. No agenda. Nothing was wrong when you called them.
+
+Most CEOs already know the answer.
+
+That answer is the size of the gap.
+
+That gap is where the Outgrow® goes.
+
+---
+
+Sid Jashnani CEO,
+
+Outgrow LLC
+
+Outgrow Certified Advisor
+
+sidjashnani.com | sidjashnani.substack.com
+
+## Every time growth stalled, I hired. It took me years to see why it never worked
+
+- Date: 24 May 2026
+- Mirror: https://sidjashnani.com/blog/every-time-growth-stalled-i-hired/
+- Original: https://sidjashnani.substack.com/p/every-time-growth-stalled-i-hired
+
+The most expensive habit I had as a founder, and the system that finally replaced it.
+
+# Every time growth stalled, I hired. It took me years to see why it never worked
+
+- Date: 24 May 2026
+- Mirror: https://sidjashnani.com/blog/every-time-growth-stalled-i-hired/
+- Original: https://sidjashnani.substack.com/p/every-time-growth-stalled-i-hired
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+The most expensive habit I had as a founder, and the system that finally replaced it.
+
+**The job spec I kept rewriting**
+
+The quarter was soft. Pipeline thin. The number on the board was lower than it should have been, and everyone in the room could feel it.
+
+I knew exactly what to do. We needed another salesperson.
+
+So I wrote the job spec. Again.
+
+I’d done it before. More than once. Revenue would wobble, and my first instinct was always the same. More feet on the street. A new hunter. Someone hungry who’d go and find the growth we were missing.
+
+It felt like leadership. It felt like doing something. Writing that spec gave me the same relief a treadmill gives you. Movement that feels like progress.
+
+We hired. We onboarded. We handed over a target and a Pipedrive CRM login and a quiet hope that this was the missing piece.
+
+**What actually happened**
+
+The new person worked hard. They were good. And six months later the number looked almost exactly the same, except now it carried a bigger salary line.
+
+It took me longer than I’d like to admit to understand why.
+
+The new hire didn’t inherit a system. They inherited a vacuum. There were no prescribed daily actions for them to run. **No sales operating system**. No rhythm of proactive customer conversations they were expected to have. No weekly accountability beyond “how’s the pipeline looking.” They were dropped into the same unstructured space as everyone else and told to go be brilliant.
+
+So they did what everyone else did. They reacted. They chased what was loud. They said they were making progress.
+
+I hadn’t added a salesperson. I’d added another person to a sales function that ran on individual brilliance (or lack of that) and motivation.
+
+**The thing nobody tells you about hiring**
+
+Hiring doesn’t fix a sales problem. It multiplies whatever you already have.
+
+If your sales engine is a set of clear, prescribed, daily behaviours, then more people pours fuel on a fire that’s already burning. Every hire compounds.
+
+But if your sales engine is “everyone sells in their own way and when they get around to it,” then every hire just scales that. You pay more money to spread the same disorganisation across more desks. You scale chaos.
+
+Here’s the part that stung. I had built operating processes and systems into almost every other part of my business. There was a rhythm to how we ran our operations, finance, the leadership team. A clear plan on a page. The right people in the right seats. Numbers everyone could see.
+
+**The one place I never built a system was the place the money actually comes from.**
+
+**What I’d do now, before hiring anyone**
+
+If I could go back, I wouldn’t write the job spec. I’d install a sales operating system first. **And for this I recommend Outgrow.**
+
+It is less dramatic than it sounds. It is a small set of proactive customer conversations/actions, done every day, by whoever is doing sales or facing the customer (could be your project manager, account manager or even your delivery drivers). Calling existing customers before anything is wrong, just to ask what else you could help them with. Asking the questions that surface needs they haven’t mentioned. Reconnecting with the prospects you quoted and lost. Asking for the introduction you never get round to asking for.
+
+A few minutes per person, per day. Logged. Reviewed once a week. Actually held to account, not just hoped for.
+
+It works whether you are the only person selling or you have a full team. For the solo founder, it ends the feast and famine cycle of sell, deliver, look up, find the pipeline empty, start again. For the founder with a customer facing team, it turns a room of busy people into a predictable engine that doesn’t depend on who happens to feel motivated this week.
+
+Get that running with the people you already have. Watch what the existing team produces when the work is structured.
+
+Then, if you still need to hire, hire. You will be pouring fuel on something that already burns.
+
+**The hard part**
+
+The job spec is the easy decision. It feels like progress and it buys you a few months of hope.
+
+The system is the harder decision, because it asks you to look honestly at what your current people are actually doing every day, and to admit the gap was never headcount.
+
+I avoided that look for years. It was the most expensive thing I ever postponed.
+
+So here is the question worth sitting with.
+
+**Where is your revenue actually stalling?**
+
+**Is it a people problem, or is it that the people you have were never given a system to run?**
+
+Hit **reply** and tell me. If it is the second one, that is the most fixable problem in your business, and I will show you where I would start.
+
+*Sid Jashnani*
+
+*Outgrow Certified Advisor*
+
+*CEO, Outgrow LLC · sidjashnani.com*
+
+## Your top performers are watching how you handle the laggards
+
+- Date: 17 May 2026
+- Mirror: https://sidjashnani.com/blog/your-top-performers-are-watching/
+- Original: https://sidjashnani.substack.com/p/your-top-performers-are-watching
+
+The bottom third of your team will kill your growth system...
+
+# Your top performers are watching how you handle the laggards
+
+- Date: 17 May 2026
+- Mirror: https://sidjashnani.com/blog/your-top-performers-are-watching/
+- Original: https://sidjashnani.substack.com/p/your-top-performers-are-watching
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+The bottom third of your team will kill your growth system...
+
+A founder called me last week. His revenue growth programme (Outgrow - it’s the best) had been running ten weeks.
+
+The top of his sales team was on fire. New conversations. New opportunities. Customers being called for the first time in months.
+
+But the numbers were uneven.
+
+Some people were logging every day. Some were logging once a week. Some not at all.
+
+He asked me what to do.
+
+I asked one question.
+
+“How many of your 22 customer-facing people are actually doing the work?”
+
+He paused. Did the math.
+
+“Maybe seven.”
+
+About a third.
+
+## Three thirds.
+
+Every team I’ve ever installed a growth or coaching system into looks the same.
+
+Top third does the work. Picks up the phone. Asks the DYK questions. Logs every call. Follows up before Friday. Their numbers move.
+
+Middle third drifts. Means well. Was on a customer call. Will catch up tomorrow. Implements when reminded. Stops when the reminder stops.
+
+Bottom third doesn’t do the work. Says “my customers don’t want to be called.” Says “we already have great relationships.” Says the system is “not how we sell here.”
+
+They are the loudest voice in the team meeting.
+
+That is the trap.
+
+## The trap.
+
+The founder was thinking about softening the cadence. Dropping the weekly logging. Letting the bottom third opt out of the daily calls.
+
+To keep the peace.
+
+I asked him what he wanted his sales team to look like in twelve months.
+
+“Hitting our number.”
+
+“No. What kind of people.”
+
+“People doing the work.”
+
+“Then why are you redesigning your system around the ones who aren’t?”
+
+The room went quiet.
+
+## Same shape. Different room.
+
+This is not just an Outgrow problem. This is every system any founder or leader has tried to install.
+
+The bottom third of your team takes the most management time and moves the fewest numbers.
+
+The bottom third tells you the new system is “too much.”
+
+The bottom third books a meeting with you to explain why their territory is different.
+
+You can build your business around them.
+
+Or you can build it around the top third.
+
+You cannot do both.
+
+## What I told him.
+
+Three things.
+
+**One.** Make the standard explicit. Write down what you expect every customer-facing person to do every day. The proactive calls. The DYK (Outgrow DYK) questions. The logged form. Most founders don’t, because it feels harsh. The cost of not writing it down is that everyone gets to interpret the standard differently.
+
+**Two.** Tell them clearly. Sit each person down. “This is what doing the work looks like in this business now.” Most will surprise you. Some won’t.
+
+**Three.** Move on quickly from the ones who won’t. Not in anger. Just quickly. Their seat is worth more than what they are putting into it.
+
+## The cost of not doing it.
+
+He knew this. Moving people on felt like he was failing them.
+
+So I gave him the line.
+
+You are not failing the bottom third when you move on.
+
+You are failing the top third every time you don’t.
+
+The top third are watching to see whether you will protect the standard or dilute it.
+
+Dilute it and they stop logging too. Quietly. You won’t notice until you look up one day and the system has died across the whole team.
+
+That is not a sales operation. That is a complaint line.
+
+## What I am doing in my own work.
+
+Same thing. Right now.
+
+I am not extending advisory invitations to founders who book the call and “get busy” before the first session.
+
+I would rather have ten clients doing the work than fifty looking at the system.
+
+The bottom third can come back when they’re ready.
+
+**In the meantime, I am rebuilding and growing revenue with people who are ready to do the work.**
+
+That is the standard.
+
+The number follows.
+
+— Sid
+
+Outgrow Certified Advisor
+
+CEO, Outgrow LLC
+
+## I Quit at Mile 3 of My Own Marathon
+
+- Date: 10 May 2026
+- Mirror: https://sidjashnani.com/blog/i-quit-at-mile-3-of-my-own-marathon/
+- Original: https://sidjashnani.substack.com/p/i-quit-at-mile-3-of-my-own-marathon
+
+The first marathon is the decision to change. The second is the one that actually counts. Most CEOs quit at mile 3.
+
+# I Quit at Mile 3 of My Own Marathon
+
+- Date: 10 May 2026
+- Mirror: https://sidjashnani.com/blog/i-quit-at-mile-3-of-my-own-marathon/
+- Original: https://sidjashnani.substack.com/p/i-quit-at-mile-3-of-my-own-marathon
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+The first marathon is the decision to change. The second is the one that actually counts. Most CEOs quit at mile 3.
+
+I installed a daily huddle in one of my businesses years ago.
+
+It worked. Then I killed it. Slowly. Without meaning to.
+
+Every morning, 9am, 15 minutes. Quick numbers. Quick blockers. Who needs help with what. Faster decisions. Fewer fires. Less drift between teams.
+
+Then I stopped showing up.
+
+Not all at once. First it was a Tuesday I had to miss. Then a few days the week I was travelling. Then weeks at a time.
+
+The huddle still happened. People still showed up.
+
+Until they didn’t.
+
+By the time I noticed, the energy had drained out of it. Conversations had gone shallow. The blockers stopped getting raised. Then the meeting itself stopped getting taken seriously.
+
+And restarting it was harder than starting it the first time.
+
+A few people quit during the relaunch. They weren’t high performers. They were the ones who’d been hiding behind weekly meetings. Daily made them visible. Visible made them uncomfortable. Uncomfortable made them leave.
+
+That was the real cost. Lost momentum. A painful restart. People drifting out who I should have moved on years earlier.
+
+All because I stopped showing up to a 15-minute meeting.
+
+---
+
+**THIS IS WHAT QUITTING AT MILE 3 LOOKS LIKE**
+
+Today I run a different business. Daily huddle, every morning, no exceptions.
+
+I see my old pattern in clients all the time.
+
+They sign up for coaching, or an Outgrow programme, or any other meaningful change. They show up to the first session ready. They show up to the second one a bit tired. By the third or fourth, they’re looking for the exit.
+
+The work didn’t get harder.
+
+They just realised this isn’t a spa. It’s a gym.
+
+Some came expecting a spa. They wanted to feel calm, validated, looked after. They didn’t want to lift anything heavy. They quit.
+
+Some came thinking they were already fit. Then they showed up to a CrossFit class on day one and pulled something. They quit.
+
+The ones who stay? They accept they’re going to be uncomfortable. They do the boring reps. They settle for singles and doubles instead of swinging for sixes every week.
+
+Those are the people who grow 30, 40, 50, 100% over two or three years.
+
+The quitters tell themselves the system didn’t work.
+
+**The system worked. They stopped running.**
+
+---
+
+**WHAT GETS YOU PAST MILE 3**
+
+Patience to follow the process when you can’t see results yet.
+
+Persistence to keep showing up when it’s uncomfortable.
+
+Perseverance to start again the day after you got it wrong.
+
+Endurance to outlast every competitor who quits before you.
+
+That’s the whole game.
+
+The leaders who win aren’t the ones who started with the best plan. They’re the ones who stayed in the gym after they got sore.
+
+I quit at mile 3 once.
+
+I won’t do it again.
+
+---
+
+> What did you start three months ago that you’re already letting drift?
+
+Tell me.
+
+---
+
+Sid
+
+Sid Jashnani
+
+CEO, Outgrow LLC
+
+[Outgrow Certified Advisor](https://runoutgrow.com/advisor/sid-jashnani/)| [sidjashnani.com](http://sidjashnani.com)
+
+---
+
+## Two upcoming webinars
+
+**For business owners — May 11, 11am Central / 5pm BST.** is hosting a live Outgrow webinar. Real client stories, the full system, and what 15-30% organic growth looks like in practice. **[Register here →](https://runoutgrow.acemlnc.com/lt.php?x=4lZy~GDKJXXL658q_Q~IV.Bw~qAnj_TykMc2XaXGUFKdDX360Uy7weNwPbKRikAn~MwybHbLMnLs5HV6)**
+
+**For coaches, consultants, and advisors — May 18, 11am Central / 5pm BST.** A separate webinar covering the Outgrow Certified Advisor opportunity. **[Register here →](https://runoutgrow.acemlnc.com/lt.php?x=4lZy~GDKJXXL658q_Q~IV.Bw~qAnj_TykMc2XaXGUFKdDX360Uy7weNwPbKRikAn~MwybHbLMnLs5HV7)**
+
+---
+
+## The 15-minute meeting that’s worth £5 million
+
+- Date: 3 May 2026
+- Mirror: https://sidjashnani.com/blog/the-15-minute-meeting-thats-worth/
+- Original: https://sidjashnani.substack.com/p/the-15-minute-meeting-thats-worth
+
+One of my companies doubled the revenue of another. Same product. Same market. The reason wasn’t what I thought.
+
+# The 15-minute meeting that’s worth £5 million
+
+- Date: 3 May 2026
+- Mirror: https://sidjashnani.com/blog/the-15-minute-meeting-thats-worth/
+- Original: https://sidjashnani.substack.com/p/the-15-minute-meeting-thats-worth
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+One of my companies doubled the revenue of another. Same product. Same market. The reason wasn’t what I thought.
+
+I owned two companies in the same space.
+
+Same product. Same market. Same opportunity sitting in front of both of them.
+
+One did £10M that year. The other did £5M.
+
+For a long time I was convinced the gap was talent. Then I was convinced it was timing. I floated the idea that one team had inherited the better client list. I told myself the other had a softer market.
+
+None of it was true.
+
+The only thing that separated those two businesses was discipline.
+
+## What the £10M company did that the £5M company didn’t
+
+The £10M company had a daily huddle. Scorecards reviewed every Monday. A weekly leadership meeting that nobody moved. The MD blocked time every fortnight to sit one-on-one with each of his managers, and he didn’t cancel them when things got busy. He didn’t cancel them when things got slow either.
+
+Their meetings were boring. Predictable. Sacred.
+
+When something went wrong, and things always go wrong in a growing business, the team was already on top of it. Decisions came fast because nobody was scrambling to catch up. They didn’t need an emergency meeting because they were never far from the data.
+
+The £5M company did all of it ad-hoc.
+
+Meetings happened when projects were lost. Reviews happened when cash got tight. Conversations happened when the shit hit the fan. Everything was reactive. Everything was a fire.
+
+They had the fatter pipeline, by the way. They just couldn’t move it.
+
+We tried to install the cadence. Weekly meetings, scorecards, one-on-ones, the whole stack. It didn’t take. They’re still in the same place today. Growing, but every extra pound feels like blood from a stone. Every win feels like it cost them three.
+
+The £10M company is still growing. Still calm. Still boring.
+
+## Then I saw the same pattern in a $2 billion business
+
+Last week I was reminded of all of this.
+
+A peer of mine runs an Outgrow programme inside a $2 billion company in the United States. He pulled the data on two of their branches.
+
+Same brand. Same product. The same customers, literally the same customers, because the two branches are three miles apart and people stop at whichever one is on their way home.
+
+Branch A runs weekly huddles. Branch B doesn’t.
+
+Branch A is up 22% year on year. Branch B is down 11%.
+
+That’s a 33-point swing. Three miles apart.
+
+Same economy. Same market. Same buyers. Same brand.
+
+The only variable is whether someone holds a 15-minute meeting on a Tuesday morning.
+
+## Same lesson at every scale
+
+The shape of what I saw in my own portfolio years ago is identical to what my peer saw last week inside a billion-dollar business.
+
+> **Discipline isn’t a personality trait. It’s a calendar.**
+
+The leaders who grow aren’t smarter, luckier, or better networked. They hold the meeting. They look at the scorecard. They have the awkward one-on-one. They do it on the slow weeks when nothing’s wrong, and they do it on the bad weeks when everything is.
+
+The ones who don’t grow always have a reason. The market. The team. The product. The economy. The competitor.
+
+It’s never the meeting they didn’t hold on Tuesday.
+
+It’s always the meeting they didn’t hold on Tuesday.
+
+## Run this audit yourself this week
+
+Pick your best-performing unit. Branch, team, rep, region — it doesn’t matter. Then pick your worst.
+
+Compare them on one thing only: cadence.
+
+Are the meetings actually happening? Are the scorecards getting reviewed? Are the one-on-ones on the calendar, or are they getting pushed every week?
+
+You’ll have your answer before you finish your coffee.
+
+You don’t need a consultant for this one.
+
+You just need to look.
+
+---
+
+Sid
+
+*Sid Jashnani | Outgrow Certified Advisor* *[sidjashnani.com](https://sidjashnani.com) | [sidjashnani.substack.com](https://sidjashnani.substack.com)*
+
+---
+
+### Two upcoming webinars
+
+**For business owners — May 11, 11am Central / 5pm BST.** is hosting a live Outgrow webinar. Real client stories, the full system, and what 15-30% organic growth looks like in practice. **[Register here →](https://runoutgrow.acemlnc.com/lt.php?x=4lZy~GDKJXXL658q_Q~IV.Bw~qAnj_TykMc2XaXGUFKdDX360Uy7weNwPbKRikAn~MwybHbLMnLs5HV6)**
+
+**For coaches, consultants, and advisors — May 18, 11am Central / 5pm BST.** A separate webinar covering the Outgrow Certified Advisor opportunity. **[Register here →](https://runoutgrow.acemlnc.com/lt.php?x=4lZy~GDKJXXL658q_Q~IV.Bw~qAnj_TykMc2XaXGUFKdDX360Uy7weNwPbKRikAn~MwybHbLMnLs5HV7)**
+
+## Your team isn’t too busy to call. They’re too scared.
+
+- Date: 25 April 2026
+- Mirror: https://sidjashnani.com/blog/your-team-isnt-too-busy-to-call-theyre/
+- Original: https://sidjashnani.substack.com/p/your-team-isnt-too-busy-to-call-theyre
+
+Three calls. Five minutes. The habit your team won't do, and the lie they tell themselves about why
+
+# Your team isn’t too busy to call. They’re too scared.
+
+- Date: 25 April 2026
+- Mirror: https://sidjashnani.com/blog/your-team-isnt-too-busy-to-call-theyre/
+- Original: https://sidjashnani.substack.com/p/your-team-isnt-too-busy-to-call-theyre
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Three calls. Five minutes. The habit your team won't do, and the lie they tell themselves about why
+
+Every week, a founder tells me the same thing.
+
+> “My team is too busy to call customers.”
+
+Sometimes it’s “we don’t want to pester them.” Sometimes it’s “they’ll call us if they need something.” Sometimes it’s dressed up in the language of a busy operator: “we’re prioritising delivery.”
+
+It’s the same answer every time. And it’s never the real reason.
+
+The real reason your team isn’t picking up the phone has nothing to do with time. It’s fear. Until you accept that, no amount of CRM, training, or sales kickoff is going to move your revenue.
+
+## The maths is offensive
+
+Let me show you what “too busy” actually looks like.
+
+Three proactive calls a day. Per person. That is the entire ask.
+
+A proactive call, in the Outgrow system, is a call to a customer or prospect when nothing is wrong. No problem to fix. No urgent matter. You ring someone you have a relationship with and ask what they have coming up that you can help with. That’s it.
+
+Three of those a day. Most go to voicemail. Most reps spend less than five minutes a day doing this work.
+
+Five minutes. Per day.
+
+If you have ten customer-facing people doing this, that’s 7,500 proactive conversations a year your business wasn’t having before. Two-thirds of those voicemails get a return communication when followed up with a text. That’s the Outgrow VM+Text technique, and the response rate holds up across 500+ companies and 100 million data points.
+
+Five thousand return conversations from five minutes a day per person.
+
+Tell me again how your team is too busy.
+
+## The real objection
+
+When a founder tells me the team doesn’t have time, I ask one question. “When was the last time you made one of these calls yourself?”
+
+The answer is almost always the same. A long pause. Then some version of “it’s been a while.”
+
+That’s the actual problem.
+
+The team isn’t avoiding the calls because they’re busy. They’re avoiding them because nobody at the top is doing them. When the founder doesn’t make proactive calls, the team learns that proactive calls aren’t real work. The behaviour you tolerate is the behaviour you teach.
+
+The other version of this objection, “we don’t want to pester our customers,” is just fear with better marketing.
+
+Nobody is pestered by a five-minute call from someone they trust who asks if there’s anything they can help with. That isn’t pestering. That’s caring. Your customer doesn’t see your silence as respect. They see it as indifference. And when a competitor finally rings them, they answer.
+
+## What the silence is actually costing you
+
+Take your top twenty accounts. Ask yourself, honestly, what percentage of their relevant spend you currently hold. Not what you’d guess. What you actually know.
+
+Most founders, when they push their team to find this number, get a brutal answer. Sometimes 5%. Sometimes less.
+
+The other 95% is going to a competitor who is making the calls your team isn’t.
+
+Three proactive calls a day per person, sustained for a year, is how that gap closes. Not a campaign. Not a quarterly push. A daily habit.
+
+The companies adding 15 to 30% in revenue every year aren’t doing anything radical. They aren’t running clever campaigns. They’ve built one habit into their team’s day and protected it like sacred ground.
+
+Five minutes. Three calls. Every day.
+
+The maths works. The system works. The only question left is whether you’re willing to make the first call yourself, today, before you ask anyone else to.
+
+That’s where it always starts.
+
+## One thing to do this week
+
+Pick three customers. Not prospects. Customers you already work with. People who would take your call.
+
+Ring them. Leave a voicemail if they don’t pick up. Follow up with a text. Ask what they have coming up that you can help with.
+
+If you can’t find five minutes for that, the problem isn’t your sales team.
+
+---
+
+*On May 11th at 11 am Central / 6pm UK, Alex Goldfayn is live on the [Outgrow Client Journey Webinar](https://us06web.zoom.us/webinar/register/WN_y9yu0qxcTN-YS1qB5KL-lg#/registration). Alex is the man who built the Outgrow system. 500+ companies. 100 million data points.*
+
+*In 60 minutes, he’ll teach the proactive call habit, the exact scripts, and the mindset shifts that take this from theory to revenue your team can see by the end of the quarter.*
+
+*Free to attend. Numbers capped.*
+
+*[Register here.](https://us06web.zoom.us/webinar/register/WN_y9yu0qxcTN-YS1qB5KL-lg#/registration)*
+
+## If You Know the Objection Is Coming, Why Are You Waiting For It?
+
+- Date: 19 April 2026
+- Mirror: https://sidjashnani.com/blog/if-you-know-the-objection-is-coming/
+- Original: https://sidjashnani.substack.com/p/if-you-know-the-objection-is-coming
+
+Why the best founders say it before anyone else does.
+
+# If You Know the Objection Is Coming, Why Are You Waiting For It?
+
+- Date: 19 April 2026
+- Mirror: https://sidjashnani.com/blog/if-you-know-the-objection-is-coming/
+- Original: https://sidjashnani.substack.com/p/if-you-know-the-objection-is-coming
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Why the best founders say it before anyone else does.
+
+A sales leader I respect told me a story recently that I have not stopped thinking about.
+
+Early in his career, he gave a keynote to a room full of CEOs. Big companies. Experienced operators. People who had been running businesses for decades.
+
+He got bad marks. Negative reviews.
+
+The feedback? “There is nothing new in his talk.”
+
+And he was furious. Not because the feedback was wrong. Because it was right. There was nothing new. But the whole point was that they already knew this stuff and were not doing it.
+
+The problem was, he did not say that upfront. He let the audience sit there for an hour thinking they were hearing old news. By the time they left, the objection had already formed. Too late to fix it.
+
+From that day forward, he addressed it on slide three. Before anyone had time to think “I already know this,” he told them: “You already know everything I am about to say. The question is whether you are doing it.”
+
+The objection died in the room. Every time.
+
+**Most founders wait for the pushback**
+
+Think about the last time you introduced something new to your team. A new process. A new system. A new expectation.
+
+You probably presented it, answered questions, and moved on. And then, three weeks later, you started hearing the resistance. “This does not work for us.” “We were already doing this.” “I do not see the point.”
+
+By then, the damage is done. The objection has calcified into a belief. And beliefs are much harder to shift than reactions.
+
+The fix is embarrassingly simple. If you know what they are going to push back on, say it first.
+
+**Disarming the objection is strategy**
+
+When you launch a new sales initiative with your team, you know exactly what is going to happen. They will start strong. Energy will fade. Some people will question whether it is working. Others will quietly stop doing the work and hope nobody notices.
+
+You know this because it happens every time. With every team. In every company.
+
+So why not say it out loud on day one?
+
+“We are going to start strong. Then energy will dip. Some of you will wonder if this is worth the effort. That is completely normal. It happens in every company that does this. The difference between companies that grow and companies that stall is what happens after the dip.”
+
+Now when the dip comes, it is not a crisis. It is a checkpoint. Something you predicted and prepared for.
+
+**This applies everywhere, not just to internal initiatives**
+
+Pricing conversations. Say the price is high before the client does. “This is not the cheapest option. Here is why it is the right one.”
+
+Sales proposals. Name the risk before the buyer raises it. “You are probably wondering whether this will work for a company your size. Here is what happened with three companies exactly your size.”
+
+Client onboarding. Tell them what the hard part will be before they hit it. “The first month will feel easy. Month three is where the real work starts. We will be here for that.”
+
+In every case, you are doing the same thing. You are showing the other person that you understand their experience better than they do. That builds trust faster than any case study or testimonial.
+
+**The question worth asking yourself this week**
+
+What objection are you currently waiting to hear from your team, your clients, or your prospects that you already know is coming?
+
+And what would change if you said it first?
+
+Because the best sales leaders, the best founders, and the best account managers do not wait for the objection. They disarm it before it forms. And the conversation that follows is entirely different.
+
+Want to see the full [Outgrow](https://runoutgrow.com) client journey with real numbers? Live webinar, May 11th. [Register here](https://runoutgrow.com/outgrow-predictable-sales-growth-webinar/)
+
+## Why I Still Believe in the Phone (And What a £20M Founder Said That Proved It)
+
+- Date: 11 April 2026
+- Mirror: https://sidjashnani.com/blog/why-i-still-believe-in-the-phone/
+- Original: https://sidjashnani.substack.com/p/why-i-still-believe-in-the-phone
+
+A proposal call, a healthcare clinic, and the one change that took response rates from 22% to 67%.
+
+# Why I Still Believe in the Phone (And What a £20M Founder Said That Proved It)
+
+- Date: 11 April 2026
+- Mirror: https://sidjashnani.com/blog/why-i-still-believe-in-the-phone/
+- Original: https://sidjashnani.substack.com/p/why-i-still-believe-in-the-phone
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+A proposal call, a healthcare clinic, and the one change that took response rates from 22% to 67%.
+
+I was on a proposal call few weeks ago with the founder of a telecoms distribution business. £20M+ in revenue, built over decades. Sharp operator. Knows his market inside out.
+
+We were about twenty minutes into talking about how his team could grow the B2B side of the business when he said something that stopped me.
+
+“Young people can’t seem to talk on the phone anymore. But it’s the only real way to build relationships.”
+
+He wasn’t complaining. He was diagnosing. And he was right.
+
+His co-founder jumped in. They’d been talking about this internally for months. They’ve had salespeople come and go. Good people, not bad hires. But every time someone left, the customer relationships went with them. Nobody followed up. Nobody checked in. The accounts just went quiet until someone else eventually picked them up, if they picked them up at all.
+
+And the people who stayed? They were doing the same thing most sales teams do. Sending emails. Sending quotes. Waiting for the phone to ring.
+
+Not because they were lazy. Because calling feels risky. Email feels safe.
+
+I’ve sat in enough of these conversations to know the pattern. The founder sees the problem clearly. The team knows it too. But nobody does anything about it because the alternative, picking up the phone and risking silence on the other end, feels worse than doing nothing.
+
+Here’s the thing I’ve learned from working with companies on this exact issue: the fear isn’t about the phone. It’s about the response. Or the lack of one.
+
+Your salesperson calls a customer. No answer. They feel like they’ve failed. They tried, right? Nobody picked up. So they mark it off and send an email instead.
+
+But they called the wrong number. Or they called at the wrong time. Or they left a voicemail that sounded like every other voicemail from every other vendor. And then they gave up.
+
+I worked with a healthcare clinic earlier this year that had this exact problem. They had appointment slots to fill, staff with the time and skill to help patients, and a booking system that was half empty. The team was sending text reminders and follow-up emails. Sensible. Professional. And completely ignored.
+
+When I dug into what was happening, the answer was almost funny.
+
+The clinicians and receptionists were calling patients on their mobiles, but they were calling from the clinic’s landline. And most people don’t pick up calls from numbers they don’t recognise these days. Especially landlines.
+
+So the calls were going unanswered. Not because people didn’t want to talk. Because they saw an unknown number and ignored it.
+
+We changed one thing. Call from a mobile phone instead of the clinic landline. If they don’t answer, leave a personal voicemail. Not a script. A real, human, 30-second message. Then follow up immediately with a text.
+
+“Hi, it’s Rebecca from Dr. Williams’ practice. Just calling to check in after your last visit. Dr. Williams wanted to see if all is well with you and your recovery is on track. . Speak soon.”
+
+Then the text: “Hi, this is Rebecca from Dr. Williams’ practice. Just left you a voicemail. Would Tuesday at 2pm or Thursday at 6pm work for a quick call to learn more about how you are recovering from xxxx?”
+
+The response rate went from 22% to 67%.
+
+Same patients. Same clinic. Same team. They just changed the channel and made it personal.
+
+Now, here’s what the founder on my call last week wouldn’t have known yet, because we haven’t started working together. But I knew it the moment he described his team’s behaviour. The phone problem and the growth problem are the same problem.
+
+His team has products their customers don’t know about. He admitted that openly. “Our existing customers aren’t being looked after as well as they could be.” His co-founder said they have “lots of products that potentially we could offer our customers.” But nobody is having those conversations.
+
+Not because the products aren’t good. Not because the customers wouldn’t want them. Because the only way to have that conversation is on the phone, or face to face, or through a voice note on WhatsApp. And nobody is doing that because it feels uncomfortable.
+
+This is the bit that I find endlessly fascinating about sales. The gap between what a company sells and what its customers know about is almost always a communication gap. Not a product gap. Not a marketing gap. A willingness-to-pick-up-the-phone gap.
+
+In Europe and Asia, where I do a lot of my work, WhatsApp voice notes have become the modern equivalent of the voicemail. Your customer is on WhatsApp all day. A voicemail on your mobile may sit unheard for days. A voice note gets opened within minutes. Same principle. More relevant channel.
+
+Either way, the point isn’t the technology. It’s the intention behind it. A personal voice message, whether it’s a voicemail or a WhatsApp note, says something that email never will: I thought about you specifically, and I picked up the phone to tell you.
+
+That’s the whole game. That’s what the founder on my call was really saying. Relationships are built through voice. Through conversation. Through the willingness to be present with another person in real time, even if it’s just for 30 seconds on a recording.
+
+His co-founder made a point that stuck with me too. He said most sales training only works for “the top 1% who have the knack.” Everyone else sits through the workshop, feels inspired for a day, and goes back to email by Monday.
+
+He’s right. And that’s the trap. Most sales training teaches technique. But technique without habit is just a memory that fades. What you actually need is a system that makes the phone call the default, not the exception. Where logging the call, tracking the response, and following up becomes as automatic as checking your inbox in the morning.
+
+That’s what I build with companies. Not a training day. A culture. Weekly tracking. Visible accountability. A set of simple questions that anyone in the business can ask. Not just the sales team. The ops people. The account managers. The project leads. Anyone who talks to a customer.
+
+“Did you know we also handle endpoint security?” “What are you currently buying from someone else that we could help with?” “Who else at your company buys what you buy?”
+
+These aren’t clever techniques. They’re obvious questions that nobody asks because nobody built the habit.
+
+The founder I spoke with last week hasn’t signed up yet. He’s taking it to his board, doing the numbers, running through the costs with his finance director. That’s exactly what a smart operator does.
+
+But here’s what I noticed during the call. About forty minutes in, he stopped asking me questions and started answering his own. “Why don’t I ask those DYK questions? It seems ridiculous we haven’t been asking.” His co-founder was nodding. They were selling each other on it.
+
+That’s what happens when the solution is simple enough for everyone. It stops being a pitch and starts being a realisation.
+
+The phone isn’t dead. Your team just needs a reason to use it. And a system that makes sure they keep using it long after the initial enthusiasm fades.
+
+If that resonates, reply to this email. I’ll tell you exactly how the system works and what the first 90 days look like. No pitch deck. Just a conversation.
+
+## Why Your Sales Pipeline Feels Like a Black Box
+
+- Date: 19 March 2026
+- Mirror: https://sidjashnani.com/blog/why-your-sales-pipeline-feels-like/
+- Original: https://sidjashnani.substack.com/p/why-your-sales-pipeline-feels-like
+
+How tracking inputs instead of outcomes creates predictable revenue
+
+# Why Your Sales Pipeline Feels Like a Black Box
+
+- Date: 19 March 2026
+- Mirror: https://sidjashnani.com/blog/why-your-sales-pipeline-feels-like/
+- Original: https://sidjashnani.substack.com/p/why-your-sales-pipeline-feels-like
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+How tracking inputs instead of outcomes creates predictable revenue
+
+Most founders track revenue the same way.
+
+Leads generated. Meetings booked. Proposals sent. Deals closed.
+
+And then they sit back and wait. Hoping the numbers move.
+
+But hope isn’t a strategy. And these metrics? They’re lagging indicators. By the time they tell you something’s wrong, it’s already expensive.
+
+That’s why so many founders feel like they’re reacting to their business instead of running it.
+
+A great quarter followed by a quiet one. Revenue that spikes and dips. No pattern. No predictability.
+
+I’ve seen this over and over again.
+
+**The Shift: Control the Controllables**
+
+You can’t control when a customer decides to buy.
+
+But you can control what your team does every single day.
+
+This is the core idea behind the **[Outgrow](https://runoutgrow.com)** methodology — a system used by 500+ companies, backed by over 100 million data points.
+
+Instead of tracking outcomes, you track Actions.
+
+An “Action” isn’t just a phone call. It’s a complete system.
+
+Here’s what one Action looks like:
+
+1. You make a proactive call to a prospect or existing client.
+
+2. If they don’t answer, you leave a voicemail.
+
+3. You follow up with a text.
+
+That’s one Action.
+
+It’s not about dialling more numbers. It’s about completing the loop.
+
+**Why Actions Work**
+
+Most sales teams stop at the first attempt. No answer? Move on.
+
+But the data tells a different story.
+
+When you complete the full Action — call, voicemail, text — 66% of people respond.
+
+These aren’t cold leads. They already know you. You’ve just not spoken in a while.
+
+And when you layer in a simple question on the call — “Did you know we also offer this?” — 20% of the time, they buy something.
+
+That’s 1 in 5.
+
+Every five questions your team asks could turn into revenue, a quote, or a follow-up conversation.
+
+The system works. But only if someone makes sure it actually happens.
+
+**From Actions to Accountability**
+
+Knowing this isn’t enough.
+
+Most teams hear about proactive outreach and nod along. Then nothing changes.
+
+That’s because Actions need a target. A rhythm. Accountability.
+
+Here’s how to make it work:
+
+𝟭. 𝗦𝗲𝘁 𝗮 𝘄𝗲𝗲𝗸𝗹𝘆 𝗔𝗰𝘁𝗶𝗼𝗻𝘀 𝘁𝗮𝗿𝗴𝗲𝘁.
+
+Pick a number your team can commit to. Say, 500 Actions across the team per week.
+
+𝟮. 𝗧𝗿𝗮𝗰𝗸 𝗶𝘁 𝘃𝗶𝘀𝗶𝗯𝗹𝘆.
+
+Make it a scorecard. Review it every week. Celebrate progress. Address gaps.
+
+𝟯. 𝗟𝗮𝘆𝗲𝗿 𝗶𝗻 𝘁𝗵𝗲 “𝗗𝗶𝗱 𝗬𝗼𝘂 𝗞𝗻𝗼𝘄” 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀.
+
+Train your team to ask and stack multiple simple DYK questions on every call: “Did you know we also offer [X] or [Y] or [Z]?” - that’s 3 actions right there.
+
+This isn’t selling. It’s helping. You’re reminding customers of value they might not know exists.
+
+𝟰. 𝗔𝘀𝗸 𝗳𝗼𝗿 𝗿𝗲𝗳𝗲𝗿𝗿𝗮𝗹𝘀.
+
+Once the relationship is warm, ask: “Who else do you know who might benefit from this?”
+
+Most teams never ask. The ones who do grow faster.
+
+**The Mindset Shift**
+
+This isn’t just about process. It’s about belief.
+
+Most salespeople avoid proactive calls because they think they’re bothering people.
+
+They tell themselves:
+
+- “If I call without an appointment, they’ll get upset.”
+
+- “I should wait until I have something new to share.”
+
+- “They’ll call me if they need something.”
+
+That’s the voice of fear. And it kills momentum.
+
+The truth is simpler.
+
+They’re your customer. You’re calling to help them — not to bother.
+
+When your team believes they’re adding value, they find a way to make the call.
+
+When they believe they’re interrupting, they find excuses not to.
+
+Mindset isn’t soft. It’s the foundation.
+
+**The Gift of Predictable Revenue**
+
+As go the inputs, so go the results.
+
+There’s always a lag between the velocity of your Actions and the velocity of your revenue. But by systematically taking action, you’re not hoping for results. You’re engineering them.
+
+You’re shortening the sales cycle.
+
+You’re building the one thing most founders crave: predictability.
+
+So here’s the question:
+
+How many Actions did your team take last week?
+
+Do you even know?
+
+**If you’re a founder looking to build predictable sales operating system that actually works, I write about this every week in my newsletter, PREDICTABLE.**
+
+Subscribe below 👇
+
+## Why Your Sales Training Isn't Working
+
+- Date: 27 February 2026
+- Mirror: https://sidjashnani.com/blog/why-your-sales-training-isnt-working/
+- Original: https://sidjashnani.substack.com/p/why-your-sales-training-isnt-working
+
+The Optimism Advantage
+
+# Why Your Sales Training Isn't Working
+
+- Date: 27 February 2026
+- Mirror: https://sidjashnani.com/blog/why-your-sales-training-isnt-working/
+- Original: https://sidjashnani.substack.com/p/why-your-sales-training-isnt-working
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+The Optimism Advantage
+
+Your pessimistic salespeople are costing you money.
+
+Not because they’re bad at selling. Because pessimism kills action.
+
+I’ve watched founders invest heavily in sales training. Objection handling workshops. Closing technique bootcamps. CRM systems. Scripts.
+
+And then wonder why nothing changes.
+
+The answer is usually simpler than they expect: their team’s heads are full of fear before they even pick up the phone.
+
+---
+
+## The COPE Mindset
+
+I’ve been learning about this through my work as an [Outgrow Advisor](https://runoutgrow.com/advisor/sid-jashnani). Alex Goldfayn calls it COPE:
+
+- **C** – Confidence
+- **O** – Optimism
+- **P** – Positivity
+- **E** – Enthusiasm
+
+You can’t fake these. And without them, every call becomes a burden.
+
+Sales is two-thirds mindset. One-third technique.
+
+Most companies get this backwards. They teach the technique and hope the mindset follows. It doesn’t.
+
+---
+
+## What the Research Says
+
+[Recent research from Rockefeller University](https://x.com/aakashgupta/status/2025799591199969635?s=61) looked at the impact of optimism—not just on wellbeing, but on performance and longevity. The findings were striking:
+
+- People in the most optimistic quartile lived **11-15% longer** (controlled for smoking, diet, exercise, alcohol, depression, and BMI)
+- They had **50-70% higher odds** of reaching 85 years old
+- **35% lower cardiovascular risk**
+- Better stress management and faster emotional recovery
+
+And here’s the part that matters for companies building sales teams:
+
+**Optimistic sellers and business owners consistently outperform pessimistic ones.**
+
+Not by a little. Significantly.
+
+The research confirms what I’ve seen in the field: when your people believe good outcomes are possible, they act differently. They pick up the phone more. They follow up faster. They recover from rejection quicker.
+
+Pessimism creates hesitation. Optimism creates momentum.
+
+---
+
+## The Skill Nobody Talks About
+
+Here’s what most founders miss: **Optimism isn’t a fixed personality trait. It’s a learnable skill.**
+
+You can train it. Just like you train objection handling or closing techniques.
+
+This was the insight that shifted my thinking. We spend so much time trying to fix behaviours: call more, follow up faster, ask better questions, all without addressing the belief system underneath.
+
+If someone believes “they probably won’t buy anyway,” no amount of technique will fix that. The fear shows up in their voice. Their prospects hear it before they finish the first sentence.
+
+But if someone believes “this call could help them,” everything changes.
+
+Same prospect. Different energy. Different outcome.
+
+---
+
+## How to Train Optimism
+
+The research points to several practices that actually work:
+
+**1. Cognitive Reappraisal**
+
+This is the practice of reframing setbacks as temporary rather than permanent.
+
+Instead of: “I lost that deal because I’m not good at this.” Try: “That deal didn’t close. What can I learn for the next one?”
+
+The first interpretation creates paralysis. The second creates movement.
+
+Train your team to catch themselves when they catastrophise. Ask them: “Is this a permanent truth, or a temporary setback?”
+
+**2. Morning Sunlight**
+
+This one surprised me. 10 minutes of natural light in the morning helps regulate mood and energy throughout the day.
+
+It’s simple, free, and backed by science. Encourage your team to take calls outside or near a window in the morning. Small shift, real impact.
+
+**3. Deliberate Breathing**
+
+Before important calls, a few minutes of slow, controlled breathing calms the nervous system. [I particularly love box breathing. Try it on the Calm app.](https://www.calm.com/blog/box-breathing)
+
+Fear shows up in the body first. Racing heart. Shallow breath. Tight shoulders. Your prospects can hear it.
+
+A calm nervous system creates a calm voice. A calm voice creates trust.
+
+**4. Structured Gratitude**
+
+Write down 3 things you are grateful for daily - either when you wake up or before you sleep. Not goals. Not tasks.
+
+This trains the brain to notice progress instead of problems. Over time, it shifts the default lens from “what’s wrong” to “what’s working.”
+
+I’ve seen teams transform their energy within weeks of implementing this practice consistently.
+
+---
+
+## What Fear Sounds Like
+
+You’ve probably heard these from your team:
+
+- “If I call them, I’ll be bothering them.”
+- “If I call without an appointment, they’ll get upset.”
+- “I should wait until I have something new to share.”
+
+That’s the voice of fear. And it’s contagious.
+
+One pessimistic team member can drag down the energy of an entire sales floor. They don’t mean to. But negativity spreads faster than optimism.
+
+The reframe is simple:
+
+**They’re your customer. You’re there to serve them. When you pick up the phone, you’re calling to help—not to bother.**
+
+That’s it.
+
+When your salespeople believe that, COPE kicks in:
+
+- Confidence replaces hesitation
+- Optimism replaces dread
+- Positivity replaces excuses
+- Enthusiasm replaces avoidance
+
+---
+
+## Recognition Over Bonuses
+
+One more insight from my recent learning: **recognition is more effective than money for driving behaviour change.**
+
+Most founders default to bonuses and incentives. But recognition does something bonuses can’t:
+
+- It’s public, so it teaches the rest of the team what good looks like
+- It reinforces identity (”I’m someone who succeeds at this”)
+- It motivates both the recipient and the observers
+
+When someone on your team closes a deal or makes a great call, don’t just pay them more. Celebrate them publicly. Name the specific behaviour. Make it visible.
+
+This builds optimism across the team, not just in one person.
+
+---
+
+## The Bottom Line
+
+You can teach someone how to pitch. You can teach objection handling. You can teach closing.
+
+But you can’t teach them to believe they’re helping people.
+
+That belief has to come first.
+
+If your sales feel inconsistent, if your team hesitates before picking up the phone, if rejection seems to linger longer than it should—the problem probably isn’t technique.
+
+It’s mindset.
+
+Fix that first. Then add the skills.
+
+---
+
+**One question to consider this week:**
+
+Is your team’s mindset helping or hurting your sales?
+
+---
+
+*Sid*
+
+*P.S. If you’re a leader stuck with unpredictable sales and want to build a system that creates predictable revenue growth, reply to this email. I’d be happy to share what’s working for my clients.*
+
+---
+
+If your revenue growth feels unpredictable or market-dependent, this webinar is for you. Alex Goldfayn will walk through real Outgrow client case studies showing how companies add 15-30% in annual sales — predictably enough to hire and plan around it. Join us live March 2nd at 12 PM ET / 5 PM UK. [Save your spot.](https://runoutgrow.com/outgrow-predictable-sales-growth-webinar/)
+
+## The 10 habits that separate bad bosses from great ones
+
+- Date: 20 February 2026
+- Mirror: https://sidjashnani.com/blog/the-10-habits-that-separate-bad-bosses/
+- Original: https://sidjashnani.substack.com/p/the-10-habits-that-separate-bad-bosses
+
+It’s not charisma or credentials — just 10 simple, repeatable habits that change everything.
+
+# The 10 habits that separate bad bosses from great ones
+
+- Date: 20 February 2026
+- Mirror: https://sidjashnani.com/blog/the-10-habits-that-separate-bad-bosses/
+- Original: https://sidjashnani.substack.com/p/the-10-habits-that-separate-bad-bosses
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+It’s not charisma or credentials — just 10 simple, repeatable habits that change everything.
+
+## The 10 Habits That Separate Bad Bosses from Great Ones
+
+I came across this visual today on LinkedIn and it nails the difference between bosses people *tolerate* and bosses people *follow*.
+
+![Image from the essay “The 10 habits that separate bad bosses from great ones”](https://sidjashnani.com/assets/blog/the-10-habits-that-separate-bad-bosses/7c93168e4b44dd5d.webp)
+
+It’s not personality.
+
+It’s not degrees.
+
+It’s habits.
+
+Here’s the cheat sheet:
+
+1. **Listens more than talks** → Great bosses absorb before they advise.
+2. **Owns outcomes** → Doesn’t play the blame game. Ever.
+3. **Shares context** → Gives people the *why*, not just the *what*.
+4. **Has the hard talks** → Handles issues early, calmly, directly.
+5. **Delegates decisions** → Trusts people to figure it out.
+6. **Is consistent** → No mood swings, no surprises.
+7. **Makes time** → Available, not just approachable.
+8. **Reviews, not reacts** → Looks back quarterly, not emotionally.
+9. **Says thank you** → Quickly, sincerely, specifically.
+10. **Focuses forward** → Builds systems so the team can run without them.
+
+The best bosses aren’t the loudest.
+
+They’re the clearest.
+
+They don’t need to “motivate” people.
+
+Their habits *do* it for them.
+
+---
+
+**Bottom line:**
+
+You don’t need to read another leadership or management book to become a great boss (though if you insist, *[How to Be a Great Boss](https://www.amazon.co.uk/How-Great-Boss-Gino-Wickman/dp/1942952848)*[by Gino Wickman](https://www.amazon.co.uk/How-Great-Boss-Gino-Wickman/dp/1942952848) won’t hurt your brain).
+
+Just do these 10 things daily, consistently, almost obsessively.
+
+Because leadership isn’t a chapter you read. It’s a muscle you train every day.
+
+Until next week,
+
+Sid
+
+---
+
+## How to Build Predictable Sales Without Carrying the Number
+
+- Date: 30 January 2026
+- Mirror: https://sidjashnani.com/blog/lbw-why-incentives-often-backfire/
+- Original: https://sidjashnani.substack.com/p/lbw-why-incentives-often-backfire
+
+A proven way to grow revenue without founder heroics
+
+# How to Build Predictable Sales Without Carrying the Number
+
+- Date: 30 January 2026
+- Mirror: https://sidjashnani.com/blog/lbw-why-incentives-often-backfire/
+- Original: https://sidjashnani.substack.com/p/lbw-why-incentives-often-backfire
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+A proven way to grow revenue without founder heroics
+
+A founder said something to me recently that I cannot shake.
+
+**“Take me out of the equation, and sales will collapse.”**
+
+He was not proud of it. He was exhausted by it.
+
+And I have heard versions of this sentence for seven years as a business coach. Different words. Same problem.
+
+These were not broken companies.
+
+Clear vision. Good people in the right seats. Strong accountability. Solid processes.
+
+And yet sales still felt fragile. Personal. Founder dependent.
+
+That question kept bothering me.
+
+Why do some companies grow predictably, while others struggle every quarter?
+
+---
+
+## The pattern I kept seeing
+
+The struggling companies were not lazy or incompetent.
+
+They simply did not have a **system for sales**. They were banking on founder-led sales and their relationships or were waiting for their phone to ring.
+
+They had systems for operations. Systems for finance. Systems for hiring.
+
+But revenue was reactive.
+
+Waiting for inbound leads. Hoping the pipeline fills. Leaning on the founder’s relationships to close deals.
+
+Hope is not a strategy. I learned that painfully in my first two businesses.
+
+The companies that grew consistently did one thing differently.
+
+They took swings (actions) every single day. Not when things were desperate. Not at quarter end.
+
+Daily. Relentless. Boring. Effective.
+
+---
+
+## Why I became an [Outgrow Certified Advisor](https://runoutgrow.com/advisor/sid-jashnani)
+
+I believe deeply in every company implementing a business operating system. It gives companies clarity, structure, discipline, and execution.
+
+But a business operating system does not fully solve sales.
+
+It creates the structure around the business, accountabilities and processes. Revenue growth needs its own operating system.
+
+That is where Outgrow fits.
+
+Outgrow has been around for over 20 years under different names. More than 500 companies run on it.
+
+The ones that commit to the work average **15–30% annual revenue growth**, year after year, as long as they run the system.
+
+That is not a promise. That is a track record.
+
+---
+
+## What makes Outgrow different
+
+**1. Sales is a habit, not a department.** Most companies outsource growth to the sales team or the founder. Outgrow involves every customer facing role. Everyone who touches a customer can create opportunity (or kill it).
+
+**2. It is about doing, not training** I have sat through enough sales workshops that spike energy for a week and disappear. Outgrow is daily action. Choreographed work. Consistent swings.
+
+**3. It creates positivity, not pressure** No fear tactics. No manipulation. Just habits that feel good and produce results. People want to do the work because they see it working.
+
+---
+
+## The math is simple
+
+More swings (actions) equals more hits (revenue).
+
+You cannot control who says yes. You **can** control how many conversations you start. How many follow ups you make. How many relationships you nurture.
+
+> Control the controllables. Let the results follow.
+
+That is the missing piece I was looking for.
+
+---
+
+## What this means for my work
+
+I am still a coach helping you implement the world’s best business operating system. That does not change.
+
+But now I can offer something I could not before. A proven way to build predictable revenue without the founder carrying the load.
+
+If your sales feel inconsistent If you are tired of hoping next quarter will be different If you have ever thought “take me out and this falls apart”
+
+I would love to talk.
+
+No pitch. Just a real conversation about what is working and what is not.
+
+---
+
+## Want to see this system in action
+
+I want to personally invite you to an upcoming live webinar hosted by my friend and founder of [Outgrow](http://runoutgrow.com)® **Alex Goldfayn**.
+
+**Date/Time: 2-Feb-2026 at 5 PM UK (GMT)**
+
+Alex will walk through the Outgrow system for predictable sales growth and show exactly how companies drive **15 to 30 percent organic revenue growth year after year** using proactive sales.
+
+This is not theory. Outgrow is backed by 20 plus years of real world use and over **100 million data points**.
+
+**In this session, you will learn:**
+
+• How to create predictable organic growth • How to expand wallet share with existing clients • How to build a proactive customer engagement system that actually sticks
+
+👉 Register here: [https://runoutgrow.com/outgrow-predictable-sales-growth-webinar/](https://runoutgrow.com/outgrow-predictable-sales-growth-webinar/)
+
+**Date/Time: 2-Feb-2026 at 5 PM UK (GMT)**
+
+If sales still feel fragile or founder dependent, this webinar will give you a clear lens on what is missing.
+
+I would love to see you there.
+
+Sid
+
+## Stop Tracking Results. Start Tracking Inputs
+
+- Date: 2 January 2026
+- Mirror: https://sidjashnani.com/blog/stop-tracking-results-start-tracking/
+- Original: https://sidjashnani.substack.com/p/stop-tracking-results-start-tracking
+
+Why great leaders manage inputs, not outcomes
+
+# Stop Tracking Results. Start Tracking Inputs
+
+- Date: 2 January 2026
+- Mirror: https://sidjashnani.com/blog/stop-tracking-results-start-tracking/
+- Original: https://sidjashnani.substack.com/p/stop-tracking-results-start-tracking
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Why great leaders manage inputs, not outcomes
+
+I teach leaders how to make faster, clearer decisions.
+
+And yet, for years, I relied on my gut and got it wrong about half the time.
+
+High stakes decisions. Big consequences. Made on intuition. Ego. Experience.
+
+A coin toss.
+
+Sometimes it worked. Sometimes it blew up.
+
+That is not strategy. That is gambling.
+
+---
+
+## The Realisation
+
+Intuition is not the problem.
+
+Unfiltered intuition is.
+
+Most founders overtrust their gut because it feels decisive. Confident. Leader like.
+
+But confidence without data is just guesswork with better posture.
+
+So I learned to add data behind the madness.
+
+---
+
+## The Shift That Changed Everything
+
+For every business or division, I now run a weekly scorecard and monthly P&L review.
+
+Not a vanity dashboard. Not lagging results.
+
+A simple weekly scorecard focused on **inputs**.
+
+Not revenue this month But sales calls made.
+
+Not new clients won But proposals sent.
+
+Not utilisation achieved But client meetings held.
+
+These are the only things I can truly control.
+
+---
+
+## Why Inputs Matter More Than Outputs
+
+Outputs are history. Inputs are leverage.
+
+If you obsess over outcomes, you react. If you manage inputs, you lead.
+
+When inputs are strong and consistent, results usually follow. When results are weak, the scorecard tells me exactly where the breakdown is.
+
+No emotion. No ego. No storytelling.
+
+Just signal.
+
+---
+
+## Intuition Still Has a Seat at the Table
+
+I have not abandoned instinct.
+
+I have disciplined it.
+
+Intuition is a hypothesis. The scorecard is the test.
+
+Together, they give me clarity on three decisions every week:
+
+- Go
+- No go
+- Pivot
+
+That is how you raise your batting average as a leader.
+
+---
+
+## The Leadership Question
+
+Most leaders are obsessing over outputs they cannot directly control.
+
+While ignoring the inputs that actually drive them.
+
+So I will leave you with this:
+
+**What inputs are you ignoring while obsessing over outcomes?**
+
+Because if you do not manage the inputs, the business will manage you.
+
+Until next week, Sid
+
+## LBW: The 3 Mistakes Founders Make with Offshore Teams
+
+- Date: 28 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-the-3-mistakes-founders-make/
+- Original: https://sidjashnani.substack.com/p/lbw-the-3-mistakes-founders-make
+
+Most founders make these and they’re easy to fix.
+
+# LBW: The 3 Mistakes Founders Make with Offshore Teams
+
+- Date: 28 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-the-3-mistakes-founders-make/
+- Original: https://sidjashnani.substack.com/p/lbw-the-3-mistakes-founders-make
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Podcast
+
+Most founders make these and they’re easy to fix.
+
+Hiring offshore can save you 60–70% in costs. But most founders still struggle to get results. Why? Because they unknowingly make the same three mistakes over and over again.
+
+---
+
+## Mistake #1: Treating Them Like Outsiders
+
+You can’t build trust with distance.
+
+Too many leaders treat their offshore staff as “vendors” or “assistants” instead of teammates.
+
+The fix is simple:
+
+- Welcome them like you would an in-office hire.
+- Introduce them to the team on Day 1.
+- Share your story, your culture, your rituals.
+
+Belonging drives performance. Not payroll.
+
+---
+
+## Mistake #2: Dumping Tasks Without Context
+
+I see this all the time. An offshore team member logs in for the first time and within 20 minutes, they’re handed a monster task.
+
+They’re nervous. They don’t know your culture or expectations yet. They just joined.
+
+Ease them in. Start with simple wins that build confidence and rhythm. Then scale responsibility as trust builds.
+
+---
+
+## Mistake #3: Ghosting on Communication
+
+No meetings. No check-ins. No feedback. Just silence and Slack pings.
+
+Communication isn’t optional, it’s the oxygen of remote teams. Start with:
+
+- A **daily 10-minute huddle** (even async updates work)
+- A **weekly one-on-one** to align expectations and coach performance
+- Make them part of the correct departmental or appropriate Level 10 meeting.
+
+Your offshore people don’t need micromanagement. They need presence.
+
+---
+
+## The Bottom Line
+
+Treat them like insiders. Onboard them properly. Communicate like clockwork.
+
+Do this, and your offshore team will perform as if they’re right across the hall not across the ocean.
+
+Until next week, **Sid**
+
+---
+
+**P.S.** Thinking of hiring offshore? We’ve helped dozens of founders build world-class remote teams that deliver results. Reply to the email and share what kind of role you’re looking to delegate so we can help you hire the right person in the right seat.
+
+## LBW: The Hard Truth About Leadership & Friendship
+
+- Date: 24 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-the-hard-truth-about-leadership/
+- Original: https://sidjashnani.substack.com/p/lbw-the-hard-truth-about-leadership
+
+Being liked feels good. Being respected gets results
+
+# LBW: The Hard Truth About Leadership & Friendship
+
+- Date: 24 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-the-hard-truth-about-leadership/
+- Original: https://sidjashnani.substack.com/p/lbw-the-hard-truth-about-leadership
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Being liked feels good. Being respected gets results
+
+So there I was, sitting across from a founder who’d built a $3.5M business from scratch. Smart, driven, and utterly miserable.
+
+“What’s the biggest problem in your business right now?” I asked.
+
+His answer? “No one does what they’re supposed to do unless I micromanage them.”
+
+As we dug deeper, the real issue emerged: **He was trapped in the friendship zone with his entire leadership team.**
+
+## The Friendship Trap
+
+Here’s a confession: I’ve fallen into this trap myself (multiple times, because I’m a slow learner).
+
+At Momentum Group, I once had a senior VP who:
+
+- Missed deadlines regularly
+- Delivered subpar work
+- Created team drama
+
+And what did I do? Schedule “feedback sessions” that turned into friendly chats about sports, family, and weekend plans. We’d end with vague promises to “do better next time.”
+
+Guess what happened? Nothing improved. For months.
+
+Why? Because I prioritised being liked over being respected.
+
+## The Accountability Problem
+
+Patrick Lencioni nails it in his book “The Five Temptations of a CEO” when he identifies one of the deadliest leadership sins:
+
+“Wanting to be popular with your direct reports instead of holding them accountable.”
+
+This isn’t just a rookie mistake—it’s an epidemic among even seasoned leaders.
+
+The hard truth: **Your job isn’t to be their friend. It’s to help them become their best.**
+
+And sometimes, that means having uncomfortable conversations.
+
+## Signs You’re Too Deep in the Friendship Zone:
+
+- You avoid giving negative feedback
+- You let deadlines slide without consequences
+- You spend more time talking about personal life than performance
+- You worry about “hurting feelings” when discussing work issues
+- You have the same improvement conversation multiple times
+
+Sound familiar? Don’t worry, you’re in good company (mine).
+
+## The Reset Button
+
+After watching my business suffer, I finally hit reset:
+
+- **Clear Expectations**: I documented exactly what success looked like for each role
+- **Regular Check-ins**: Scheduled weekly one-on-ones focused primarily on metrics and goals
+- **Direct Feedback**: Delivered within 24 hours, good or bad
+- **Real Consequences**: Made it clear that continued underperformance wasn’t an option
+
+The results? Two team members stepped up dramatically. One chose to leave. And my business grew 28% the following year.
+
+## Finding Balance
+
+This doesn’t mean becoming a cold, distant boss. In fact, the best leader-team relationships involve:
+
+- Genuine care for your people’s growth
+- Deep understanding of their strengths and weaknesses
+- Investment in their development
+- Respectful, direct communication
+
+As one of my mentors put it: “Be friendly, not friends.”
+
+## The Bottom Line
+
+The kindest thing you can do for your team isn’t protecting their feelings—it’s helping them grow through honest feedback and clear expectations.
+
+Your team doesn’t need another friend. They need a leader.
+
+Until next week,
+
+Sid
+
+P.S. What’s your experience with this balance? Reply and let me know—I read every response.
+
+*Know a leader struggling with this balance? Forward this email. They’ll either thank you or never speak to you again. Either way, problem solved!*
+
+---
+
+## LBW: Want your team to change? You first.
+
+- Date: 22 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-want-your-team-to-change-you/
+- Original: https://sidjashnani.substack.com/p/lbw-want-your-team-to-change-you
+
+The embarrassing lesson I learned about walking the talk.
+
+# LBW: Want your team to change? You first.
+
+- Date: 22 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-want-your-team-to-change-you/
+- Original: https://sidjashnani.substack.com/p/lbw-want-your-team-to-change-you
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+The embarrassing lesson I learned about walking the talk.
+
+TLDR: Your company initiatives are failing because you (yes, YOU) aren’t following them. Ask me how I know.
+
+2015: I went full Tony Robbins.
+
+- Dropped $$$ on leadership programs and exec education
+- Filled notebooks with “game-changing” frameworks
+- Bought enough business books to start a library
+- Almost got a “hustle harder” tattoo (kidding... maybe)
+
+My company, Momentum, was scaling fast. $4M → $35M.
+
+But here’s the thing about scaling...
+
+It’s like trying to build a plane while flying it. Except I was the pilot telling everyone else to follow the manual while freestyling my own moves
+
+## The Leadership Trap
+
+Quick story time:
+
+Me in meetings: “Guys, we NEED systems and processes!” Also me: *hasn’t updated my scorecard in 3 weeks*
+
+Me to team: “No phones in Level 10 meetings!” Also me: *sending emails under the table like a high schooler texting in math class*
+
+Me on processes: “Follow the system!” Also me: “But this deal is different...”
+
+Notice a pattern?
+
+## Rules Don’t Apply To Me
+
+Know what happens when the founder plays by different rules?
+
+- Trust dies faster than my New Year’s resolutions
+- Eye rolls become an Olympic sport
+- “Yes boss” becomes code for “whatever you say, buddy”
+- New initiatives are treated like crypto in 2024
+
+## The Numbers Don’t Lie
+
+In departments where we actually followed the system:
+
+- Project completion: ⬆️ 40%
+- Chaos: ⬇️ 80%
+- Hair pulling: ⬇️ 90%
+
+But because I kept making “founder exceptions,” we couldn’t scale it.
+
+## The Wake-Up Call
+
+Every Monday at 10am, L10 time. The rules were crystal clear:
+
+- No phones
+- To-dos completed
+- Scorecard updated
+- Issues list prepped
+
+Me at 10:07am, typing on my phone: “Sorry team, client emergency. Keep going, I’m listening...”
+
+Until one Monday my Integrator just stood up: “Let’s cancel today. We’ll restart when you’re ready to play by your own rules.”
+
+## The Fix
+
+Want your company to actually change?
+
+- Do the thing
+- Keep doing the thing
+- No “special founder circumstances”
+- Seriously, just keep doing the thing
+
+That’s it. That’s the newsletter.
+
+When I finally started eating my own dog food
+
+- Meetings got shorter
+- Decisions got faster
+- Problems got solved
+- My blood pressure dropped
+
+## The Bottom Line
+
+Stop being the “rules for thee but not for me” founder. (Trust me, your team already has a group chat about it)
+
+Keep it real,
+
+Sid
+
+P.S. I still have those 2015 notebooks. They’re great for propping up my monitor. At least they’re supporting something.
+
+*Know a leader who preaches process but plays by different rules? Forward this email. Their team already has a group chat about it.*
+
+---
+
+## LBW: Your Indecision Is Costing You (More Than You Think)
+
+- Date: 19 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-your-indecision-is-costing-you/
+- Original: https://sidjashnani.substack.com/p/lbw-your-indecision-is-costing-you
+
+That decision you're avoiding? It's getting expensive.
+
+# LBW: Your Indecision Is Costing You (More Than You Think)
+
+- Date: 19 November 2025
+- Mirror: https://sidjashnani.com/blog/lbw-your-indecision-is-costing-you/
+- Original: https://sidjashnani.substack.com/p/lbw-your-indecision-is-costing-you
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+That decision you're avoiding? It's getting expensive.
+
+Ever watched a leader take 3 months to make a 3-minute decision?
+
+I have. Multiple times. (I was that leader once).
+
+## The Discussion Trap
+
+Here’s what I see in almost every leadership team meeting:
+
+An issue comes up. Everyone jumps straight to discussing it:
+
+- “We should look into...”
+- “Maybe we could try...”
+- “What if we considered...”
+
+45 minutes later, nobody has actually identified what the real issue is and they’ve probably gone off tangent by now.
+
+Why? Because identifying the real issue often reveals an uncomfortable truth that requires a tough decision. And tough decisions are, well... tough.
+
+## Real Talk
+
+Last month, I watched a tech company CEO spend 6 weeks “discussing” an underperforming sales manager. Meeting after meeting. Report after report.
+
+The actual issue? The CEO knew this person needed to go but was afraid of making the call. He was hoping that the issue would solve itself.
+
+Cost of all that “discussion”? $42,000 in salary for subpar work, plus a demoralised team watching their leader avoid the obvious.
+
+## Breaking The Cycle
+
+Want to know if you’re stuck in the discussion trap? Watch out for these phrases:
+
+- “Let’s take this offline” (Translation: Never)
+- “We need more data” (Translation: I’m scared to decide)
+- “Let’s circle back next week” (Translation: Hope everyone forgets)
+
+If you genuinely need more information or a dedicated discussion, then make a real decision right now: Get that meeting on the calendar. Be specific about who’s bringing what data. Then come back next week ready to move forward with a clear plan.
+
+## The 24 Hour Rule
+
+Try this: Any issue that lands on your desk gets 24 hours. Within that time, you must:
+
+- Name the real issue (not the symptom)
+- Make a decision - can be just the next step.
+- Take action
+
+Yes, even the tough ones. Especially the tough ones.
+
+Will you make mistakes? Sure.
+
+Will they cost less than weeks of indecision? Almost always.
+
+## Your Challenge This Week
+
+Pick that one issue you’ve been “discussing” for weeks.
+
+You know the one. Name it. Decide. Act.
+
+Do it before this time tomorrow.
+
+Then email me and tell me how it felt.
+
+Until next week,
+
+**Sid**
+
+P.S. Fun fact: I spent 20 minutes debating whether this P.S. was funny enough to include. The irony is not lost on me.
+
+*Know a leader stuck in the discussion loop? Forward this their way. Their team will thank you.*
+
+---
+
+## LBW: Most underrated way to get what you want
+
+- Date: 27 October 2025
+- Mirror: https://sidjashnani.com/blog/lbw-most-underrated-way-to-get-what/
+- Original: https://sidjashnani.substack.com/p/lbw-most-underrated-way-to-get-what
+
+Everyone wants something. This ONE thing will help you achieve your goals.
+
+# LBW: Most underrated way to get what you want
+
+- Date: 27 October 2025
+- Mirror: https://sidjashnani.com/blog/lbw-most-underrated-way-to-get-what/
+- Original: https://sidjashnani.substack.com/p/lbw-most-underrated-way-to-get-what
+- Author: Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor
+- Type: Letter
+
+Everyone wants something. This ONE thing will help you achieve your goals.
+
+Want to know the superpower that will define business success in 2026?
+
+It’s not AI.
+
+It’s not Elon or Donald.
+
+It’s not even having a fancy LinkedIn title with “Thought Leader” in it (even though that would be cool to get - and I know some of my subscribers already have it).
+
+It’s something so basic, so fundamental, that it’s almost embarrassing to write about.
+
+## The Secret? Do What You Say
+
+That’s it. That’s the newsletter.
+
+(Just kidding, keep reading...)
+
+Here’s what’s wild: This used to be the bare minimum to do business. The absolute baseline. Now? It’s become a superpower. An actual competitive advantage.
+
+We’re living in an epidemic of unfulfilled promises:
+
+- “I’ll get back to you tomorrow” (They didn’t)
+- “Let’s circle back next week” (Translation: Let’s pretend this conversation never happened)
+- “It’s at the top of my priority list” (Right below scrolling Instagram for 3 hours)
+- “Your call is important to us” (But not important enough to hire more people)
+
+## The Maths Is Simple
+
+If you consistently do what you say:
+
+- You’re automatically better than 99.9% of your competition
+- Your customer satisfaction scores will skyrocket
+- Your team will trust you
+- Your business will grow
+
+Not because you’re doing anything revolutionary. But because you’re doing something that’s become revolutionary by its scarcity: Following through.
+
+## That’s it
+
+No frameworks. No complicated strategies. No 12-step processes.
+
+Yet somehow we’ve created a business world where:
+
+- 5 follow-up emails is “normal”
+- “ASAP” means “whenever I get around to it”
+- And “end of day” could mean any day in the next quarter
+
+The solution?
+
+**Just do what you say.**
+
+Your customers will think you’re a unicorn.
+
+Your team will think you’re a genius.
+
+Your competition will wonder what your secret is.
+
+And you’ll be sitting there knowing that your “competitive advantage” is simply keeping your word.
+
+Until next week,
+
+**Sid**
+
+P.S. I promised this would be a short newsletter. Look at me, doing what I say.
+
+*If you know someone who needs this reminder (we all do), share this post. I promise it’ll help. And yes, that’s a promise I intend to keep.*
+<!-- sid-blog-full:end -->
