@@ -1,21 +1,100 @@
+# sidjashnani.com — search engines and AI crawlers may read the public pages.
+# The enquiry Worker source is not site content.
+
 User-agent: *
 Allow: /
-
-# Sitemap
-Sitemap: https://sidjashnani.com/sitemap.xml
-
-# LLM / AI crawler guidance
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
+Disallow: /worker/
 
 User-agent: Googlebot
 Allow: /
+Disallow: /worker/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /worker/
+
+User-agent: GoogleOther
+Allow: /
+Disallow: /worker/
 
 User-agent: Bingbot
 Allow: /
+Disallow: /worker/
+
+User-agent: Applebot
+Allow: /
+Disallow: /worker/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /worker/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /worker/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /worker/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /worker/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /worker/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /worker/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /worker/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /worker/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /worker/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /worker/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /worker/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /worker/
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+Disallow: /worker/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /worker/
+
+User-agent: CCBot
+Allow: /
+Disallow: /worker/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /worker/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /worker/
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /worker/
+
+Sitemap: https://sidjashnani.com/sitemap.xml

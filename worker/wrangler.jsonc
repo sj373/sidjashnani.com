@@ -1,0 +1,33 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "sidjashnani-enquiry",
+  "main": "src/index.js",
+  "compatibility_date": "2026-10-21",
+  "workers_dev": false,
+  "preview_urls": false,
+  // The site stays on GitHub Pages. This route is answered by the Worker
+  // before the request reaches the Pages origin. The live Worker was deployed
+  // via the Cloudflare API on sidjashnani.com/api/enquiry*. Keep this pattern
+  // identical: a later `wrangler deploy` overwrites that deployment.
+  // Add www only if that host is proxied on the same zone and does not already
+  // redirect to the apex.
+  "routes": [
+    {
+      "pattern": "sidjashnani.com/api/enquiry*",
+      "zone_name": "sidjashnani.com"
+    }
+  ],
+  // Sends only to this verified destination. Do not widen it.
+  "send_email": [
+    {
+      "name": "EMAIL",
+      "destination_address": "sj@momentumdojo.com"
+    }
+  ],
+  "vars": {
+    "TO_EMAIL": "sj@momentumdojo.com",
+    "FROM_EMAIL": "enquiry@sidjashnani.com",
+    "FROM_NAME": "Sid Jashnani website",
+    "MAIL_PROVIDER": "email"
+  }
+}
