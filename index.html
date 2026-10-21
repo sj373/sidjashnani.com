@@ -4,13 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--
-    Turnstile site key (public). Replace YOUR_TURNSTILE_SITE_KEY with the site key
-    from the Cloudflare Turnstile widget for sidjashnani.com. The secret key
+    Turnstile site key (public) for sidjashnani.com. The secret key
     never goes in this file. See worker/README.md.
   -->
   <script data-cfasync="false">
     window.SID_FORM_LOADED_AT = Date.now();
-    window.SID_TURNSTILE_SITE_KEY = "YOUR_TURNSTILE_SITE_KEY";
+    window.SID_TURNSTILE_SITE_KEY = "0x4AAAAAAFfqKdXejbHSDzYp";
   </script>
 
   <link rel="icon" href="/assets/favicon/favicon.ico" sizes="any">
@@ -889,7 +888,6 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
     var button = document.getElementById('f-submit');
     var ts = document.getElementById('f-ts');
     var slot = document.getElementById('turnstile-slot');
-    var PLACEHOLDER = 'YOUR_TURNSTILE_SITE_KEY';
     var siteKey = (window.SID_TURNSTILE_SITE_KEY || '').trim();
     var widgetId = null;
 
@@ -923,7 +921,7 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
     }
 
     function keyConfigured() {
-      return siteKey && siteKey !== PLACEHOLDER && siteKey.indexOf('YOUR_') !== 0;
+      return !!siteKey && siteKey.indexOf('YOUR_') !== 0;
     }
 
     function currentToken() {

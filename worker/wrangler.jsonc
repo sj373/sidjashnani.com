@@ -6,11 +6,14 @@
   "workers_dev": false,
   "preview_urls": false,
   // The site stays on GitHub Pages. This route is answered by the Worker
-  // before the request reaches the Pages origin. Add www only if that host
-  // is proxied on the same zone and does not already redirect to the apex.
+  // before the request reaches the Pages origin. The live Worker was deployed
+  // via the Cloudflare API on sidjashnani.com/api/enquiry*. Keep this pattern
+  // identical: a later `wrangler deploy` overwrites that deployment.
+  // Add www only if that host is proxied on the same zone and does not already
+  // redirect to the apex.
   "routes": [
     {
-      "pattern": "sidjashnani.com/api/enquiry",
+      "pattern": "sidjashnani.com/api/enquiry*",
       "zone_name": "sidjashnani.com"
     }
   ],

@@ -2,7 +2,7 @@
 
 `POST https://sidjashnani.com/api/enquiry`
 
-The site itself stays on GitHub Pages. This Worker is attached only to `/api/enquiry` on the Cloudflare zone, so the form never exposes a public calendar link.
+The site itself stays on GitHub Pages. This Worker is attached only to the route `sidjashnani.com/api/enquiry*` on the Cloudflare zone, so the form never exposes a public calendar link.
 
 It checks, in order:
 
@@ -18,22 +18,15 @@ There is no fee, calendar URL, or inbox address in the Worker response.
 
 ## 1. Turnstile
 
-In the Cloudflare dashboard: **Turnstile → Add widget**.
+The public site key for the Managed widget on `sidjashnani.com` is already in `index.html`:
 
-- Host: `sidjashnani.com`
-- Widget mode: Managed
+```html
+window.SID_TURNSTILE_SITE_KEY = "0x4AAAAAAFfqKdXejbHSDzYp";
+```
 
-Then:
+That file is served by GitHub Pages. The site key is public. The secret is not, and it is already stored on the live Worker. Never commit the secret.
 
-1. Put the **site key** in `index.html`, replacing `YOUR_TURNSTILE_SITE_KEY`:
-
-   ```html
-   window.SID_TURNSTILE_SITE_KEY = "YOUR_TURNSTILE_SITE_KEY";
-   ```
-
-   That file is served by GitHub Pages. The site key is public. The secret is not.
-
-2. Store the **secret key** on the Worker (step 4 below). Never commit it.
+The form treats a key as ready when it is non-empty and does not start with `YOUR_`. With the key above, the page loads the Turnstile widget and does not show “This enquiry form is not accepting messages yet.”
 
 Local dummy keys (always pass, not for production):
 
@@ -83,14 +76,18 @@ Leave the `send_email` binding in place. With `MAIL_PROVIDER=resend` the Worker 
 
 ## 3. Deploy
 
+The live Worker **sidjashnani-enquiry** is already deployed through the Cloudflare API, not through Wrangler. It answers `sidjashnani.com/api/enquiry*`. The Turnstile secret and the `send_email` binding are already configured. A POST with no Turnstile token returns `400 {"error":"turnstile"}`.
+
+`wrangler.jsonc` keeps that same route pattern (`sidjashnani.com/api/enquiry*`) so the config matches what is live.
+
+**A future `wrangler deploy` overwrites that API deployment** — the script, the route, the vars in `wrangler.jsonc`, and any binding the deploy does not resend. Run it only when you mean to replace the live Worker. Confirm `TURNSTILE_SECRET_KEY` is still set first, and do not change the route pattern.
+
 ```bash
 cd worker
 npm ci
 npx wrangler secret put TURNSTILE_SECRET_KEY
 npx wrangler deploy
 ```
-
-`wrangler deploy` publishes the route `sidjashnani.com/api/enquiry` on the zone. The GitHub Pages site is unchanged apart from the HTML that calls this route.
 
 `workers_dev` and preview URLs are off so the endpoint is not also published on `*.workers.dev`.
 
@@ -105,7 +102,7 @@ Secrets and vars:
 | `FROM_EMAIL` | var | `enquiry@sidjashnani.com` |
 | `FROM_NAME` | var | `Sid Jashnani website` |
 
-A later `wrangler deploy` writes the vars in `wrangler.jsonc` over dashboard edits of those same names. Keep the inbox and From address in this file.
+A later `wrangler deploy` replaces the Worker that was deployed via the API, and it writes the vars in `wrangler.jsonc` over dashboard edits of those same names. Keep the inbox, From address, and route `sidjashnani.com/api/enquiry*` in this file.
 
 For a local check, copy nothing into git:
 
@@ -142,9 +139,9 @@ Turnstile, the honeypot, and the 3 second floor still apply on every plan. The W
 
 ## 5. Try it
 
-After the site key is in `index.html` and the Worker is deployed, submit the form on https://sidjashnani.com/#contact. A success ends with “Your enquiry has been sent.” A failure says that nothing was delivered. The page never shows an email address.
+The site key is in `index.html` and the Worker is already answering `https://sidjashnani.com/api/enquiry`. Submit the form on https://sidjashnani.com/#contact. A success ends with “Your enquiry has been sent.” A failure says that nothing was delivered. The page never shows an email address.
 
-Until this Worker is deployed, the form shows that error instead of failing silently.
+The page loads Turnstile with `0x4AAAAAAFfqKdXejbHSDzYp` and does not take the “not accepting messages yet” path. A POST with no token is rejected as `400 {"error":"turnstile"}`.
 
 ## Rocket Loader
 
