@@ -1,0 +1,68 @@
+# Mirrors https://sidjashnani.substack.com into /blog/ and commits to main
+# when an essay was added, edited, or removed.
+#
+# GitHub cron is UTC. 22:30 UTC on Tuesday is:
+#   22:30 in the UK during GMT (late October to late March)
+#   23:30 in the UK during BST (late March to late October)
+# That is the Tuesday-night window after a normal publication day.
+# GitHub may start the job a few minutes after the cron time.
+#
+# The job only runs its commit step on main (the default branch schedule,
+# or a manual run from main). A manual run from another branch still
+# executes the sync in that checkout and does not push to main.
+#
+# Sid: the default GITHUB_TOKEN can push to main only if branch protection
+# allows GitHub Actions to bypass pull-request rules. If a push is rejected,
+# either allow the actions bot through, or run the workflow and open a PR
+# from the result. The site stays on GitHub Pages; this workflow does not
+# deploy the Cloudflare Worker.
+
+name: Sync Substack blog
+
+on:
+  schedule:
+    - cron: "30 22 * * 2"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-substack-blog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        if: github.ref == 'refs/heads/main'
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Check out the branch that was dispatched
+        if: github.ref != 'refs/heads/main'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Check the sync script
+        run: python3 scripts/sync-blog.py --self-test
+
+      - name: Fetch essays and write pages
+        run: python3 scripts/sync-blog.py --refresh
+
+      - name: Commit to main when the mirror changed
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- blog assets/blog index.html sitemap.xml llms.txt llms-full.txt
+          if git diff --staged --quiet; then
+            echo "No blog changes."
+          else
+            git commit -m "Update the Substack mirror."
+            git push origin HEAD:main
+          fi

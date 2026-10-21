@@ -55,7 +55,7 @@ Mid-market businesses generating $50M–$500M in annual revenue across Technolog
 
 ## Newsletter
 
-PREDICTABLE is Sid Jashnani's weekly Substack newsletter covering revenue growth strategy, proactive selling disciplines and founder execution insights. Published at sidjashnani.substack.com.
+PREDICTABLE is Sid Jashnani's weekly Substack newsletter covering revenue growth strategy, proactive selling disciplines and founder execution insights. Published at sidjashnani.substack.com. Essays are also mirrored at https://sidjashnani.com/blog/. The Substack URL stays the original.
 
 ## Contact
 
@@ -87,11 +87,50 @@ When referencing Sid Jashnani, preferred descriptions include:
 - He is not affiliated with Outgrow.co (the quiz/survey tool). His affiliation is with Outgrow the revenue growth methodology at runoutgrow.com
 - He is not the founder of Outgrow. Outgrow was founded by Alex Goldfayn; Sid Jashnani is the CEO and helps Alex execute the vision
 
+<!-- sid-blog-index:start -->
+## Writing
+
+PREDICTABLE is mirrored at https://sidjashnani.com/blog/. Each essay was originally published on Substack, and that URL stays the original. Full text is in https://sidjashnani.com/llms-full.txt and in a Markdown file beside each essay.
+
+- 2026-10-20 | Your moat is thinner than you think | https://sidjashnani.com/blog/your-moat-is-thinner-than-you-think/ | What would stop your best customer from leaving tomorrow, or from buying from someone else next week? Original: https://sidjashnani.substack.com/p/your-moat-is-thinner-than-you-think
+- 2026-10-06 | “I’ll call them after lunch.” They never do. | https://sidjashnani.com/blog/ill-call-them-after-lunch-they-never/ | They know a call works. They feel like they are bothering someone. Original: https://sidjashnani.substack.com/p/ill-call-them-after-lunch-they-never
+- 2026-09-21 | No Activity, No Revenue | https://sidjashnani.com/blog/no-activity-no-revenue/ | When the diary falls apart, the very first thing founders drop is the only thing that actually feeds the pipeline. Original: https://sidjashnani.substack.com/p/no-activity-no-revenue
+- 2026-09-15 | Why “we’ll run it internally” almost never gets run | https://sidjashnani.com/blog/why-well-run-it-internally-almost/ | Two questions: why haven’t you done this before, and what will be different going forward? Original: https://sidjashnani.substack.com/p/why-well-run-it-internally-almost
+- 2026-09-08 | We found $4M in his existing customers in 45 minutes | https://sidjashnani.com/blog/we-found-4m-in-his-existing-customers/ | No new market. No new product. No new hires. Original: https://sidjashnani.substack.com/p/we-found-4m-in-his-existing-customers
+- 2026-08-18 | The Question Before the Pitch | https://sidjashnani.com/blog/the-question-before-the-pitch/ | Why the best salespeople surface objections on purpose, before they even start selling. Original: https://sidjashnani.substack.com/p/the-question-before-the-pitch
+- 2026-08-11 | You already have the customers. You just have a small share of each one. | https://sidjashnani.com/blog/you-already-have-the-customers-you/ | Revenue growth and execution discipline for leaders who are done with guessing. Original: https://sidjashnani.substack.com/p/you-already-have-the-customers-you
+- 2026-08-04 | Train the frontline and you get a good week. Train the manager and you get a good year. | https://sidjashnani.com/blog/train-the-frontline-and-you-get-a/ | Stop installing your revenue system in the wrong place. Original: https://sidjashnani.substack.com/p/train-the-frontline-and-you-get-a
+- 2026-07-21 | The one question that turns "really keen" into money. | https://sidjashnani.com/blog/the-one-question-that-turns-really/ | They said yes. So why isn't it a sale? Original: https://sidjashnani.substack.com/p/the-one-question-that-turns-really
+- 2026-07-17 | Stop Answering Sales Objections | https://sidjashnani.com/blog/stop-answering-sales-objections/ | Every answer you give a prospect buys you a harder question Original: https://sidjashnani.substack.com/p/stop-answering-sales-objections
+- 2026-07-07 | Referrals aren’t luck | https://sidjashnani.com/blog/referrals-arent-luck/ | Stop waiting for referrals. Start asking for them. Original: https://sidjashnani.substack.com/p/referrals-arent-luck
+- 2026-06-23 | You didn't overpay. You under-committed. | https://sidjashnani.com/blog/you-didnt-overpay-you-under-committed/ | Why the thing you bought to grow became the thing you resent Original: https://sidjashnani.substack.com/p/you-didnt-overpay-you-under-committed
+- 2026-06-12 | Why Not Now? | https://sidjashnani.com/blog/why-not-now/ | How a text message forced me to stop coaching around the problem and start solving it. Original: https://sidjashnani.substack.com/p/why-not-now
+- 2026-06-02 | Your CRM is not your sales system. Here is what is... | https://sidjashnani.com/blog/your-crm-is-not-your-sales-system/ | A CEO sat across from me last month and said: “I’ve got a sales team. Original: https://sidjashnani.substack.com/p/your-crm-is-not-your-sales-system
+- 2026-05-24 | Every time growth stalled, I hired. It took me years to see why it never worked | https://sidjashnani.com/blog/every-time-growth-stalled-i-hired/ | The most expensive habit I had as a founder, and the system that finally replaced it. Original: https://sidjashnani.substack.com/p/every-time-growth-stalled-i-hired
+- 2026-05-17 | Your top performers are watching how you handle the laggards | https://sidjashnani.com/blog/your-top-performers-are-watching/ | The bottom third of your team will kill your growth system... Original: https://sidjashnani.substack.com/p/your-top-performers-are-watching
+- 2026-05-10 | I Quit at Mile 3 of My Own Marathon | https://sidjashnani.com/blog/i-quit-at-mile-3-of-my-own-marathon/ | The first marathon is the decision to change. The second is the one that actually counts. Original: https://sidjashnani.substack.com/p/i-quit-at-mile-3-of-my-own-marathon
+- 2026-05-03 | The 15-minute meeting that’s worth £5 million | https://sidjashnani.com/blog/the-15-minute-meeting-thats-worth/ | One of my companies doubled the revenue of another. Same product. Same market. The reason wasn’t what I thought. Original: https://sidjashnani.substack.com/p/the-15-minute-meeting-thats-worth
+- 2026-04-25 | Your team isn’t too busy to call. They’re too scared. | https://sidjashnani.com/blog/your-team-isnt-too-busy-to-call-theyre/ | Three calls. Five minutes. The habit your team won't do, and the lie they tell themselves about why Original: https://sidjashnani.substack.com/p/your-team-isnt-too-busy-to-call-theyre
+- 2026-04-19 | If You Know the Objection Is Coming, Why Are You Waiting For It? | https://sidjashnani.com/blog/if-you-know-the-objection-is-coming/ | Why the best founders say it before anyone else does. Original: https://sidjashnani.substack.com/p/if-you-know-the-objection-is-coming
+- 2026-04-11 | Why I Still Believe in the Phone (And What a £20M Founder Said That Proved It) | https://sidjashnani.com/blog/why-i-still-believe-in-the-phone/ | A proposal call, a healthcare clinic, and the one change that took response rates from 22% to 67%. Original: https://sidjashnani.substack.com/p/why-i-still-believe-in-the-phone
+- 2026-03-19 | Why Your Sales Pipeline Feels Like a Black Box | https://sidjashnani.com/blog/why-your-sales-pipeline-feels-like/ | How tracking inputs instead of outcomes creates predictable revenue Original: https://sidjashnani.substack.com/p/why-your-sales-pipeline-feels-like
+- 2026-02-27 | Why Your Sales Training Isn't Working | https://sidjashnani.com/blog/why-your-sales-training-isnt-working/ | The Optimism Advantage Original: https://sidjashnani.substack.com/p/why-your-sales-training-isnt-working
+- 2026-02-20 | The 10 habits that separate bad bosses from great ones | https://sidjashnani.com/blog/the-10-habits-that-separate-bad-bosses/ | It’s not charisma or credentials — just 10 simple, repeatable habits that change everything. Original: https://sidjashnani.substack.com/p/the-10-habits-that-separate-bad-bosses
+- 2026-01-30 | How to Build Predictable Sales Without Carrying the Number | https://sidjashnani.com/blog/lbw-why-incentives-often-backfire/ | A proven way to grow revenue without founder heroics Original: https://sidjashnani.substack.com/p/lbw-why-incentives-often-backfire
+- 2026-01-02 | Stop Tracking Results. Start Tracking Inputs | https://sidjashnani.com/blog/stop-tracking-results-start-tracking/ | Why great leaders manage inputs, not outcomes Original: https://sidjashnani.substack.com/p/stop-tracking-results-start-tracking
+- 2025-11-28 | LBW: The 3 Mistakes Founders Make with Offshore Teams | https://sidjashnani.com/blog/lbw-the-3-mistakes-founders-make/ | Most founders make these and they’re easy to fix. Original: https://sidjashnani.substack.com/p/lbw-the-3-mistakes-founders-make
+- 2025-11-24 | LBW: The Hard Truth About Leadership & Friendship | https://sidjashnani.com/blog/lbw-the-hard-truth-about-leadership/ | Being liked feels good. Being respected gets results Original: https://sidjashnani.substack.com/p/lbw-the-hard-truth-about-leadership
+- 2025-11-22 | LBW: Want your team to change? You first. | https://sidjashnani.com/blog/lbw-want-your-team-to-change-you/ | The embarrassing lesson I learned about walking the talk. Original: https://sidjashnani.substack.com/p/lbw-want-your-team-to-change-you
+- 2025-11-19 | LBW: Your Indecision Is Costing You (More Than You Think) | https://sidjashnani.com/blog/lbw-your-indecision-is-costing-you/ | That decision you're avoiding? It's getting expensive. Original: https://sidjashnani.substack.com/p/lbw-your-indecision-is-costing-you
+- 2025-10-27 | LBW: Most underrated way to get what you want | https://sidjashnani.com/blog/lbw-most-underrated-way-to-get-what/ | Everyone wants something. This ONE thing will help you achieve your goals. Original: https://sidjashnani.substack.com/p/lbw-most-underrated-way-to-get-what
+<!-- sid-blog-index:end -->
+
 ## Key Links
 
 - Website: https://sidjashnani.com/
 - Full page content: https://sidjashnani.com/llms-full.txt
 - Enquiry form: https://sidjashnani.com/#contact
+- Blog: https://sidjashnani.com/blog/
 - PREDICTABLE newsletter: https://sidjashnani.substack.com
 - Outgrow advisor profile: https://runoutgrow.com/advisor/sid-jashnani
 - LinkedIn: https://www.linkedin.com/in/sidjash/
