@@ -1,0 +1,31 @@
+# Pings IndexNow when a push to main changes HTML or the sitemap.
+# The Tuesday blog sync also pings after its own commit. A second ping
+# for the same URLs is harmless.
+
+name: IndexNow
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.html"
+      - "sitemap.xml"
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the push
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Ping IndexNow
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: python3 scripts/indexnow.py --range "$BEFORE" "$AFTER"

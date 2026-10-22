@@ -866,7 +866,6 @@ def prepare_body(raw_html: str, title: str, store: ImageStore, cover_origin: str
 
 
 def head_common(title: str, description: str, canonical: str, robots: str, extra: str) -> str:
-    fonts = "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;0,800;1,600&amp;family=DM+Sans:ital,wght@0,400;0,500;0,700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap"
     return (
         "<!DOCTYPE html>\n<html lang=\"en-GB\">\n<head>\n"
         "  <meta charset=\"UTF-8\">\n"
@@ -886,11 +885,9 @@ def head_common(title: str, description: str, canonical: str, robots: str, extra
         f"  <link rel=\"canonical\" href=\"{html.escape(canonical, quote=True)}\">\n"
         f"  <link rel=\"alternate\" href=\"{SITE}/llms.txt\" type=\"text/plain\" title=\"Summary for language models\">\n"
         + extra +
-        "  <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n"
-        "  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n"
-        f"  <link rel=\"preload\" as=\"style\" href=\"{fonts}\">\n"
-        f"  <link rel=\"stylesheet\" href=\"{fonts}\" media=\"print\" onload=\"this.media='all'\">\n"
-        f"  <noscript><link rel=\"stylesheet\" href=\"{fonts}\"></noscript>\n"
+        "  <link rel=\"preload\" href=\"/assets/fonts/dm-sans-latin.woff2\" as=\"font\" type=\"font/woff2\" crossorigin>\n"
+        "  <link rel=\"preload\" href=\"/assets/fonts/poppins-700-normal-latin.woff2\" as=\"font\" type=\"font/woff2\" crossorigin>\n"
+        "  <link rel=\"stylesheet\" href=\"/assets/fonts/fonts.css\">\n"
         "  <link rel=\"stylesheet\" href=\"/assets/blog.css\">\n"
         "  <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-YF4Y5T2LR7\" data-cfasync=\"false\"></script>\n"
         "  <script data-cfasync=\"false\">\n"
@@ -1239,8 +1236,22 @@ def render_llms_full(posts: list[dict], markdowns: dict[str, str]) -> str:
     return "\n".join(parts).strip()
 
 
+def sitemap_lastmod(post: dict) -> str:
+    """London calendar day of the essay's last edit, else its publication day."""
+    raw = post.get("modified") or post.get("published") or post["date"]
+    if isinstance(raw, str) and "T" in raw:
+        try:
+            return london_date(raw)[0]
+        except ValueError:
+            return post["date"]
+    if isinstance(raw, str) and len(raw) >= 10:
+        return raw[:10]
+    return post["date"]
+
+
 def render_sitemap(posts: list[dict]) -> str:
-    newest = posts[0]["date"] if posts else "2026-10-21"
+    dates = [sitemap_lastmod(post) for post in posts]
+    newest = max(dates) if dates else datetime.now(LONDON).date().isoformat()
     rows = [
         "  <url>",
         f"    <loc>{SITE}/blog/</loc>",
@@ -1249,11 +1260,11 @@ def render_sitemap(posts: list[dict]) -> str:
         "    <priority>0.8</priority>",
         "  </url>",
     ]
-    for post in posts:
+    for post, lastmod in zip(posts, dates):
         rows.extend([
             "  <url>",
             f"    <loc>{SITE}/blog/{post['slug']}/</loc>",
-            f"    <lastmod>{post['date']}</lastmod>",
+            f"    <lastmod>{lastmod}</lastmod>",
             "    <changefreq>monthly</changefreq>",
             "    <priority>0.6</priority>",
             "  </url>",
@@ -1447,6 +1458,9 @@ def sync(refresh: bool) -> None:
     index_page = replace_between(index_page, "<!-- sid-blog-latest:start -->", "<!-- sid-blog-latest:end -->", latest)
     write_text(ROOT / "index.html", index_page)
 
+    # Only the marked blog block is replaced. Homepage lastmod, and the
+    # Outgrow/outgrow.co note plus the current-title line in the llms files,
+    # sit outside the markers and stay put.
     sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
     sitemap = replace_between(sitemap, "<!-- sid-blog-sitemap:start -->", "<!-- sid-blog-sitemap:end -->", render_sitemap(included))
     write_text(ROOT / "sitemap.xml", sitemap)
@@ -1552,6 +1566,18 @@ def run_self_tests() -> None:
         raise SystemExit(f"Sanitiser dropped content: {body}")
     if "Certified Outgrow" in body or "Thanks for reading" in body or "share it" in body:
         raise SystemExit(f"Sanitiser kept a footer or the old title: {body}")
+    sitemap_xml = render_sitemap([
+        {
+            "slug": "example-essay",
+            "date": "2026-10-01",
+            "published": "2026-10-01T08:00:00Z",
+            "modified": "2026-10-22T12:00:00Z",
+        }
+    ])
+    if "<lastmod>2026-10-22</lastmod>" not in sitemap_xml or "example-essay" not in sitemap_xml:
+        raise SystemExit(f"Sitemap lastmod did not follow the modified date: {sitemap_xml}")
+    if "llms" in sitemap_xml:
+        raise SystemExit("Sitemap renderer included an llms URL")
     if "Outgrow Certified Advisors" not in body:
         raise SystemExit("Plural title was not rewritten")
     if "became a " in body or "became a " in markdown:

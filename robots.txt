@@ -5,120 +5,144 @@ User-agent: *
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Googlebot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Google-Extended
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: GoogleOther
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Bingbot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Applebot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Applebot-Extended
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: DuckDuckBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: GPTBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: ChatGPT-User
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: OAI-SearchBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: ClaudeBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Claude-Web
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: anthropic-ai
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: PerplexityBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Perplexity-User
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Amazonbot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Meta-ExternalAgent
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Meta-ExternalFetcher
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: Bytespider
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: CCBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: cohere-ai
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: DuckAssistBot
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 User-agent: MistralAI-User
 Allow: /
 Disallow: /worker/
 Disallow: /blog/skipped.json
+Disallow: /templates/
 
 Sitemap: https://sidjashnani.com/sitemap.xml
