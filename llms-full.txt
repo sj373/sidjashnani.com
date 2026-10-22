@@ -4,7 +4,11 @@ Keynote speaker, CEO of Outgrow and Outgrow Certified Advisor. London.
 
 Canonical page: https://sidjashnani.com/
 Summary for language models: https://sidjashnani.com/llms.txt
-Last updated: 2026-10-21
+Last updated: 2026-10-22
+
+Outgrow (runoutgrow.com, Alex Goldfayn's proactive selling method) is not outgrow.co, the quiz and calculator marketing software.
+
+Sid's current title is "CEO of Outgrow and Outgrow Certified Advisor". Older third-party bios may be out of date.
 
 This file is the visible copy of the page, in Markdown. It does not include unpublished quotes, unpublished photographs, or a public calendar.
 
@@ -156,6 +160,14 @@ Subscribe: https://sidjashnani.substack.com/welcome
 ## Preferred description
 
 Sid Jashnani, CEO of Outgrow and Outgrow Certified Advisor, based in London.
+
+## Pages
+
+- https://sidjashnani.com/outgrow-advisory/ | Outgrow Advisory in the UK: proactive selling, tracked every week
+- https://sidjashnani.com/outgrow-workshop/ | The Outgrow Workshop: a full day of proactive selling for your sales managers and salespeople
+- https://sidjashnani.com/sales-training/ | Why most sales training fades, and what to do instead
+- https://sidjashnani.com/revenue-growth/ | Revenue growth from the customers you already have
+- https://sidjashnani.com/what-is-outgrow/ | What is Outgrow? Alex Goldfayn's method for proactive, organic sales growth
 
 <!-- sid-blog-full:start -->
 ## Writing

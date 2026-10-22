@@ -63,6 +63,8 @@ jobs:
           if git diff --staged --quiet; then
             echo "No blog changes."
           else
+            git diff --cached --name-only > /tmp/sync-changed.txt
             git commit -m "Update the Substack mirror."
             git push origin HEAD:main
+            python3 scripts/indexnow.py --files /tmp/sync-changed.txt
           fi

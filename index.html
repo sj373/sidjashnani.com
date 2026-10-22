@@ -47,12 +47,10 @@
   <meta name="twitter:image" content="https://sidjashnani.com/assets/og-image.jpg">
   <meta name="twitter:image:alt" content="Sid Jashnani on stage. Keynote speaker, CEO of Outgrow and Outgrow Certified Advisor.">
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preload" as="image" type="image/webp" href="assets/photos/sid-on-stage-800.webp" imagesrcset="assets/photos/sid-on-stage-800.webp 800w, assets/photos/sid-on-stage-1600.webp 1600w" imagesizes="(max-width: 1280px) calc(100vw - 48px), 1168px" fetchpriority="high">
-  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;0,800;1,600&family=DM+Sans:ital,wght@0,400;0,500;0,700&family=JetBrains+Mono:wght@400;500&display=swap">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;0,800;1,600&family=DM+Sans:ital,wght@0,400;0,500;0,700&family=JetBrains+Mono:wght@400;500&display=swap" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;0,800;1,600&family=DM+Sans:ital,wght@0,400;0,500;0,700&family=JetBrains+Mono:wght@400;500&display=swap"></noscript>
+  <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/poppins-700-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/fonts/fonts.css">
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-YF4Y5T2LR7" data-cfasync="false"></script>
   <script data-cfasync="false">
@@ -84,6 +82,17 @@
       "inLanguage": "en-GB"
     },
     {
+      "@type": "Organization",
+      "@id": "https://sidjashnani.com/#outgrow",
+      "name": "Outgrow",
+      "legalName": "Outgrow LLC",
+      "url": "https://runoutgrow.com",
+      "founder": {
+        "@type": "Person",
+        "name": "Alex Goldfayn"
+      }
+    },
+    {
       "@type": "ProfilePage",
       "@id": "https://sidjashnani.com/#webpage",
       "url": "https://sidjashnani.com/",
@@ -98,7 +107,7 @@
       "mainEntity": {
         "@id": "https://sidjashnani.com/#sid"
       },
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-10-22",
       "inLanguage": "en-GB",
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -121,14 +130,7 @@
       ],
       "description": "Sid Jashnani is a keynote speaker, the CEO of Outgrow and a London-based Outgrow Certified Advisor. He helps $50M–$500M businesses replace reactive selling with proactive daily disciplines, with a target of 15–30% predictable annual revenue growth. Outgrow was founded by Alex Goldfayn; Sid is its CEO and helps Alex execute the vision. Sid did not found Outgrow.",
       "worksFor": {
-        "@type": "Organization",
-        "name": "Outgrow",
-        "legalName": "Outgrow LLC",
-        "url": "https://runoutgrow.com",
-        "founder": {
-          "@type": "Person",
-          "name": "Alex Goldfayn"
-        }
+        "@id": "https://sidjashnani.com/#outgrow"
       },
       "url": "https://sidjashnani.com/",
       "image": {
@@ -155,9 +157,7 @@
           "name": "Outgrow Certified Advisor",
           "credentialCategory": "Professional Certification",
           "recognizedBy": {
-            "@type": "Organization",
-            "name": "Outgrow",
-            "url": "https://runoutgrow.com"
+            "@id": "https://sidjashnani.com/#outgrow"
           }
         }
       ],
@@ -275,7 +275,7 @@
         "India"
       ],
       "description": "A full day with sales managers and salespeople. The team learns how Outgrow works, practises it on real customers, and leaves knowing what to do on Monday morning. In person across the US, UK and India, or online.",
-      "url": "https://sidjashnani.com/#advisory"
+      "url": "https://sidjashnani.com/outgrow-workshop/"
     },
     {
       "@type": "Service",
@@ -295,7 +295,27 @@
         "audienceType": "Mid-market businesses generating $50M–$500M in annual revenue"
       },
       "description": "A structured engagement to install the Outgrow system inside a business. The team makes a handful of proactive communications a day, and the work is tracked weekly, with a target of 15–30% predictable new sales growth a year.",
-      "url": "https://sidjashnani.com/#advisory"
+      "url": "https://sidjashnani.com/outgrow-advisory/"
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://sidjashnani.com/#practice",
+      "name": "Sid Jashnani",
+      "serviceType": "Revenue growth advisory",
+      "url": "https://sidjashnani.com/outgrow-advisory/",
+      "provider": {
+        "@id": "https://sidjashnani.com/#sid"
+      },
+      "areaServed": [
+        "GB",
+        "US",
+        "IN"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "London",
+        "addressCountry": "GB"
+      }
     },
     {
       "@type": "Blog",
@@ -742,9 +762,9 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
     <div>
       <p class="eyebrow">About</p>
       <h2 id="about-h">Sid has done this work in his own businesses, and now he helps other leadership teams do it too.</h2>
-      <p class="speakable-about">Sid Jashnani is the CEO of Outgrow and a London-based Outgrow Certified Advisor. He helps leadership teams make proactive selling a daily habit for their customer-facing people, with a target of 15–30% organic sales growth a year. The emphasis is on doing the work every day, rather than sitting through another round of sales training.</p>
+      <p class="speakable-about">Sid Jashnani is the CEO of Outgrow and a London-based Outgrow Certified Advisor. He helps leadership teams make proactive selling a daily habit for their customer-facing people, with a target of <a href="/revenue-growth/">15–30% organic sales growth</a> a year. The emphasis is on doing the work every day, rather than sitting through another round of <a href="/sales-training/">sales training</a>.</p>
       <p>Sid has been a founder since 2005. He scaled a systems integration business across the IT infrastructure ecosystem to £27M+ revenue, and along the way he lived through the up-and-down quarters, the delegation gaps, the cash-flow pressure and the daily firefighting that most founders know only too well.</p>
-      <p>Then he came across Outgrow, Alex Goldfayn's methodology, and the idea behind it was simple. Running a business well doesn't, on its own, make it grow. Growth comes from reaching out to customers and prospects when nothing is wrong, and from showing up and following up when nobody else does. Sid built that habit into his own teams, watched it compound, and went on to become an Outgrow Certified Advisor.</p>
+      <p>Then he came across Outgrow, <a href="/what-is-outgrow/">Alex Goldfayn's methodology</a>, and the idea behind it was simple. Running a business well doesn't, on its own, make it grow. Growth comes from reaching out to customers and prospects when nothing is wrong, and from showing up and following up when nobody else does. Sid built that habit into his own teams, watched it compound, and went on to become an Outgrow Certified Advisor.</p>
       <p>Today Sid is CEO of Outgrow, the company Alex Goldfayn founded, where he helps Alex execute the vision. His job is to keep the business focused and commercially disciplined, and to support Outgrow's advisors and clients around the world. He also works directly with mid-market leadership teams across the US, UK and India.</p>
       <div class="stats">
         <div><b>£27M+</b><span>Revenue scaled in own businesses</span></div>
@@ -765,7 +785,7 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
 <section class="band wall" id="advisory" aria-labelledby="advisory-h">
   <div class="wrap">
     <p class="eyebrow">Advisory</p>
-    <h2 id="advisory-h">Outgrow Advisory: building the proactive habit into your team and tracking it every week</h2>
+    <h2 id="advisory-h"><a href="/outgrow-advisory/">Outgrow Advisory</a>: building the proactive habit into your team and tracking it every week</h2>
     <p class="lead">This is a structured engagement to put the Outgrow system to work inside your business. Your customer-facing people make a handful of proactive communications a day, which takes just a few minutes, and we look at those efforts together every week. It's designed for mid-market businesses generating $50M–$500M in annual revenue.</p>
 
     <div class="steps">
@@ -793,9 +813,9 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
 
     <p class="eyebrow" style="margin-top:clamp(56px,7vw,96px)">Other ways to work with Sid</p>
     <div class="offer">
-      <div class="card">
+      <div class="card" id="workshop">
         <!-- Workshop photo hidden until a real photograph exists. To restore, add a picture.workshop-ph here. Do not ship a labelled placeholder. -->
-        <h3>Outgrow Workshop</h3>
+        <h3><a href="/outgrow-workshop/">Outgrow Workshop</a></h3>
         <p>A full day with your sales managers and your salespeople. The team learns how Outgrow works, practises it on your real customers, and leaves knowing what to do on Monday morning. In person across the US, UK and India, or online.</p>
         <a class="textlink" href="?type=workshop#contact" data-type="workshop">Enquire about the workshop →</a>
       </div>
@@ -926,7 +946,7 @@ footer{background:var(--og-navy-900);color:var(--og-on-navy);padding:var(--og-sp
   <div class="wrap">
     <div class="fcols">
       <div><a class="brand" href="/"><img src="/assets/brand/sj-solid.svg" width="32" height="32" alt=""><span>Sid Jashnani</span></a><p>Keynote speaker, CEO of Outgrow and Outgrow Certified Advisor. London, UK.</p></div>
-      <div><h2>Work with Sid</h2><ul><li><a href="?type=keynote#contact" data-type="keynote">Speaking</a></li><li><a href="?type=workshop#contact" data-type="workshop">Workshop</a></li><li><a href="?type=advisory#contact" data-type="advisory">Advisory</a></li></ul></div>
+      <div><h2>Work with Sid</h2><ul><li><a href="?type=keynote#contact" data-type="keynote">Speaking</a></li><li><a href="/outgrow-advisory/">Outgrow Advisory</a></li><li><a href="/outgrow-workshop/">Outgrow Workshop</a></li><li><a href="/sales-training/">Sales training</a></li><li><a href="/revenue-growth/">Revenue growth</a></li><li><a href="/what-is-outgrow/">What is Outgrow</a></li></ul></div>
       <div><h2>Elsewhere</h2><ul><li><a href="/blog/">Blog</a></li><li><a href="https://runoutgrow.com/advisor/sid-jashnani" target="_blank" rel="noopener">Outgrow profile<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://sidjashnani.substack.com" target="_blank" rel="noopener">PREDICTABLE newsletter<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="https://www.linkedin.com/in/sidjash/" target="_blank" rel="noopener">LinkedIn<span class="sr-only"> (opens in a new tab)</span></a></li><li><a href="/llms.txt">For AI</a></li></ul></div>
     </div>
     <p class="legal">© 2026 SID JASHNANI · LONDON, UK</p>
