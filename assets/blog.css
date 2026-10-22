@@ -71,6 +71,7 @@ h1,h2,h3{font-family:var(--og-font-head);color:var(--og-navy);letter-spacing:var
 .prose li p{margin:0 0 .35em}
 .prose li p:last-child{margin:0}
 .prose a{color:var(--og-navy);text-decoration-thickness:1px;text-underline-offset:3px}
+.prose a.btn{color:#fff;text-decoration:none}
 .prose blockquote{margin-left:0;padding:0 0 0 1em;border-left:3px solid var(--og-navy);color:var(--og-navy)}
 .prose code{font-family:var(--og-font-mono);font-size:.9em}
 .prose pre{overflow:auto;padding:16px;background:var(--og-navy-50);border-radius:var(--og-radius);font-size:.9rem}
